@@ -9,5 +9,6 @@ __pycache__/
 # C extensions
 *secrets*.py
 .pyc
+*.egg
 *.so
 

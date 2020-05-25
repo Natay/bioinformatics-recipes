@@ -78,4 +78,4 @@ rmarkdown::render(temp, output_file = OUT_FILE ,
                   envir = new.env())
 
 # Remove the temporary R Markdown template used to create report.
-file.remove(local_temp)
+#file.remove(temp)

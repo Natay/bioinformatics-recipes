@@ -178,8 +178,14 @@ if (length(params$tax_rank) != 0) {
 } else {
   taxas <- "D,K,P,C,O,F,G,S"
 }
+
+tax_taxRanks <- unlist(strsplit(taxas, ","))
+
 # tax_taxRanks <- c("D","K","P","C","O","F","G","S")
-tax_taxRanks <- c("D","O","F","G","S")
+# tax_taxRanks <- c("D","O","F","G","S")
+
+cat(tax_taxRanks)
+cat("RANKS")
 
 all_names <- sub("^._","",sort(unique(unlist(sapply(reports,function(x) x$name[x$taxRank != "-"])))))
 colourScale <- sankeyD3::JS(sprintf("d3.scaleOrdinal().range(d3.schemeCategory20b).domain([%s])",

@@ -54,7 +54,7 @@ if (file.exists(template)){
     # Get the R Markdown template file locally or from the
     # Make a local copy of the template file
     temp <- file.path(OUTPUT_DIR, 'pavian_template.Rmd' )
-    file.copy(rmd_file, local_temp, overwrite = TRUE)
+    file.copy(rmd_file, temp, overwrite = TRUE)
 }
 
 # Gather the reports

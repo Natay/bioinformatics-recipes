@@ -174,9 +174,9 @@ do.call(tabsetPanel,lapply(names(reports), function(n) {
 if (isTRUE(params$include_sankey)) {
 
 if (length(params$tax_rank) != 0) {
-  taxas <- "D,K,P,C,O,F,G,S"
+  taxas <- params$tax_rank
 } else {
-  taxas <- strsplit(params$tax_rank)
+  taxas <- "D,K,P,C,O,F,G,S"
 }
 tax_taxRanks <- strsplit(taxas, ",")
 

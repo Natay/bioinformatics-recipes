@@ -1,8 +1,3 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: natay
-# Created on: 2020-05-24
-
 # Load pavion
 library(pavian)
 

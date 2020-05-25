@@ -45,7 +45,7 @@ data <- pavian::read_sample_data(dir(INPUT_DIR, pattern=NULL, all.files=FALSE, f
 
 template = file.path(OUTDIR, 'pavian_template.Rmd')
 
-if file.exists(template){
+if (file.exists(template)){
     temp <- template
 }else{
     # Get the R Markdown template for final report file

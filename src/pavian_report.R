@@ -5,7 +5,7 @@ library(pavian)
 args = commandArgs(trailingOnly=TRUE)
 
 # Directory containing input data files.
-INPUT_DIR = args[1]
+INPUT_PATTERN = args[1]
 
 # Date to put on the report
 DATE = args[2]
@@ -40,7 +40,7 @@ sample_set_names_combined <- function(){
 
 # Load data found in directory
 #data <- pavian::read_sample_data(system.file("shinyapp","example-data","brain-biopsies",package="pavian"))
-data <- pavian::read_sample_data(dir(INPUT_DIR, pattern=NULL, all.files=FALSE, full.names=TRUE), is_files=TRUE)
+data <- pavian::read_sample_data(Sys.glob(INPUT_PATTERN), is_files=TRUE)
 
 
 template = file.path(OUTDIR, 'pavian_template.Rmd')

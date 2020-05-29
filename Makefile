@@ -9,3 +9,5 @@ push:
 	git commit -am "code update by `whoami` on `date`"
 	git push
 
+clean:
+	rm -rf ~/tmp/*

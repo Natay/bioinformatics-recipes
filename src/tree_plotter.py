@@ -1,6 +1,7 @@
 # Load sankey
 import os
 import django
+import subprocess
 
 from django.template import loader
 
@@ -36,6 +37,28 @@ def gen_data(fname):
         item_id, child_label, parent, size, color = line.strip().split(",")
 
         yield (int(item_id), child_label, int(parent), int(size), color)
+
+
+def taxa_data(fname):
+    """
+    Extract taxa data from a file
+    """
+    from subprocess import PIPE
+
+    # Ordered list of taxonomic ranks
+    ranks = ["R", "R1", "D", "K", "P", "C", "O", "F", "G", "S"]
+    counts = dict()
+    for rank in ranks:
+
+        cmd = "awk -v col=4 '{print $col}' " + f"{fname} | grep -c -w '{rank}'"
+        proc = subprocess.run(cmd, shell=True, stderr=PIPE, stdout=PIPE)
+        counts[rank] = int(proc.stdout.decode().strip())
+
+    possible_roots = [x[0] for x in counts.items() if x[1] == 1]
+    possible_roots = sorted(possible_roots, key=lambda x: ranks.index(x), reverse=True)
+    root = possible_roots[0]
+
+    return counts, root
 
 
 def parse_kraken2(fname):
@@ -78,35 +101,45 @@ def parse_kraken2(fname):
 
 def parse_kraken(fname):
 
-    # The root rank in the each file, all paths lead back here.
-    ROOT = "R1"
+    # Gather some preliminary meta data about the file
+    counts, root = taxa_data(fname=fname)
 
     # Keep track of the latest taxids for each rank
     most_recent = dict()
 
     # Map a rank to it's direct parent rank.
-    parent_rank_map = dict(D=ROOT, K="D", P="K", C="P", O="C", F="O", G="F", S="G")
+    parent_rank_map = dict(D="R", K="D", P="K", C="P", O="C", F="O", G="F", S="G")
+    color_map = dict(R="black", D="black", K="pink", P="purple", C="brown", O="orange", F="blue", G="red", S="green")
 
     stream = open(fname, "r")
     idcount = 0
+    hit_root = False
+
     for line in stream:
 
         perc, covered, assigned, rank, taxid, name = line.strip().split("\t")
         name = name.strip()
         perc = int(float(perc)) or 1
+        color = color_map.get(rank, "black")
 
         # We are at the root.
-        if rank == ROOT:
+        if rank == root:
             most_recent[rank] = 0
-            yield 0, name, -1, perc, "red"
+            hit_root = True
+            yield 0, name, -1, perc, color
+            continue
 
         # Line being ignored.
         if rank not in parent_rank_map:
             continue
 
+        if not hit_root:
+            continue
+
         # Get the parent taxid of this rank.
         parent_rank = parent_rank_map[rank]
-        parent_id = most_recent.get(parent_rank, ROOT)
+
+        parent_id = most_recent.get(parent_rank)
         parent_id = int(parent_id)
 
         idcount += 1
@@ -115,8 +148,9 @@ def parse_kraken(fname):
 
         # Return the next child to plot.
         if rank == "S":
-            perc = 100
-        yield idcount, name, parent_id, perc, "red"
+            perc = 10000
+
+        yield idcount, name, parent_id, perc, color
 
 
 def plot(files, tmpl=None, is_kraken=False, outdir=None):

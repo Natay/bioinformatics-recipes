@@ -1,0 +1,58 @@
+
+<h2>{{ title }}</h2>
+{% if legend %}
+
+<div class="ui relaxed horizontal list">
+    {% for count,color,name in legend %}
+        {{ item }} lll
+        <div class="item">
+            <div class="content">
+                <i class="circle icon" style="color: {{ color }}"></i>
+                {{ name }} ( {{ count }} )
+            </div>
+        </div>
+    {% endfor %}
+</div>
+{% endif %}
+<div id="{{id}}" style="width: 900px; height: 450px;"></div>
+
+<script type="text/javascript">
+  google.charts.load("current", {packages:["sankey"]});
+  google.charts.setOnLoadCallback(drawChart);
+   function drawChart() {
+    var data = new google.visualization.DataTable();
+    data.addColumn('string', 'From');
+    data.addColumn('string', 'To');
+    data.addColumn('number', 'Weight');
+
+    data.addRows([
+    {% for parent,child,count in data %}
+        [ "{{parent}}", "{{child}}", {{count}}],
+    {% endfor %}
+    ]);
+
+    // Set chart options
+    var options = {
+      width: 800,
+      sankey: {
+        node: { label: {
+                         fontSize: 10,
+                         color: '#871b47',
+                         bold: true,
+                         italic: true },
+                width: 5,
+                nodePadding: 6,
+                       colors: [
+      '#3368FF',         // Custom color palette for sankey nodes.
+      '#F033FF',         // Nodes will cycle through this palette
+      '#FF3336',         // giving each node its own color.
+      '#33FF3F'
+    ]
+        } },
+    };
+
+    // Instantiate and draw our chart, passing in some options.
+    var chart = new google.visualization.Sankey(document.getElementById('{{id}}'));
+    chart.draw(data, options);
+   }
+</script>

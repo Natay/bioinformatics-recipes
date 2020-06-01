@@ -1,5 +1,19 @@
 <h2>{{ title }}</h2>
-<div id="{{ plot_id }}" style="width: 100%; height: 500px; overflow-y: scroll"></div>
+{% if legend %}
+
+<div class="ui relaxed horizontal list">
+    {% for count,color,name in legend %}
+        {{ item }} lll
+        <div class="item">
+            <div class="content">
+                <i class="circle icon" style="color: {{ color }}"></i>
+                {{ name }} ( {{ count }} )
+            </div>
+        </div>
+    {% endfor %}
+</div>
+{% endif %}
+<div id="{{ plot_id }}" style="width: 100%; height: 500px"></div>
 
 <script type="text/javascript">
     google.charts.load('current', {packages: ['wordtree']});
@@ -8,7 +22,7 @@
     function drawSimpleNodeChart() {
         var nodeListData = new google.visualization.arrayToDataTable(
             [
-                ['id', 'childLabel', 'parent', 'size',  { role: 'style' }],
+                ['id', 'childLabel', 'parent', 'size', {role: 'style'}],
                 {% for id, label, parent, size, color in data %}
                     [{{id}}, "{{label}}", {{parent}}, {{ size }}, "{{ color }}"],
                 {% endfor %}
@@ -21,7 +35,7 @@
                 format: 'explicit',
                 type: 'suffix',
                 fontName: 'Times-Roman',
-                forceIFrame:true
+                forceIFrame: true
             }
 
         };

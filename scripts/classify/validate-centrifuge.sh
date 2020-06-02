@@ -87,6 +87,9 @@ mkdir -p index
 # Build the centrifuge index.
 centrifuge-build -p 2 --conversion-table $TABLE --taxonomy-tree $NODES --name-table $NAMES $FASTA $INDEX >> runlog.txt
 
+# Install the plac command parser.
+pip install plac -q
+
 # The location of the code that simulates the reads.
 URL1=https://raw.githubusercontent.com/biostars/biocode/master/scripts/fasta/simulate.py
 
@@ -107,9 +110,6 @@ URL2=https://raw.githubusercontent.com/biostars/biocode/master/scripts/classify/
 
 # Get the code.
 curl $URL2 > code/validate.py
-
-# Install the plac command parser.
-pip install plac -q
 
 # Run the validator
 python code/validate.py -f $OUTPUT -t $TAXONOMY -c $N > $ACCURACY

@@ -68,7 +68,7 @@ def evaluate(tname, lookup, expected):
     reader = csv.reader(stream, delimiter="\t")
 
     # Validation table header.
-    header = "accession expected reported percent taxid title".split()
+    header = "accession expect actual percent taxid title".split()
     print("\t".join(header))
 
     for row in reader:
@@ -86,11 +86,11 @@ def evaluate(tname, lookup, expected):
 
 
 @plac.annotations(
-    fname=("kraken2/centrifuge output of classified reads", "option", "f", argparse.FileType(), None, "PATH"),
-    tname=("file to connect each accession to a taxid", "option", "t", argparse.FileType(), None, "PATH"),
+    fname=("kraken2/centrifuge output of classified reads", "option", "f", str, None, "PATH"),
+    tname=("file to connect each accession to a taxid", "option", "t", str, None, "PATH"),
     count=("the expected read counts for each accession", "option", "c", int, None, "INT"),
 )
-def run(fname, tname, count):
+def run(fname, tname, count=1000):
 
     # Decide if it is kraken2 or centrifuge output
     header = open(fname).readline()

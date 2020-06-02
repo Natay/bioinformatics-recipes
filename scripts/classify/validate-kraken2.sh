@@ -73,16 +73,20 @@ URL1=https://raw.githubusercontent.com/biostars/biocode/master/scripts/fasta/sim
 # Get the code.
 curl $URL1 > code/simulate.py
 
-# Create the simulation
-python code/simulate.py $FASTA $N > $READS
+# Generate the simulated reads.
+python code/simulate.py --fname $FASTA --count $N > $READS
 
-# Run kraken2 in paired end mode.
+# Run kraken2 classifier.
 kraken2 -db $DB $READS --report-zero-counts --report $REPORT > $OUTPUT
 
-# The location of the code that validates the reads.
-URL2=https://raw.githubusercontent.com/biostars/biocode/master/scripts/kraken2/validate.py
+# The location of the code that generates the validation.
+URL2=https://raw.githubusercontent.com/biostars/biocode/master/scripts/classify/validate.py
 
 # Get the code.
 curl $URL2 > code/validate.py
 
+# Install the plac command parser.
+pip install plac -q
+
+# Run the validator on the results.
 python validate.py $OUTPUT $TAXONOMY $N > $ACCURACY

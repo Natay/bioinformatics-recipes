@@ -8,21 +8,29 @@ Usage:
 The main difference to other tools (and reason for this tool to even exist)
 is it that it generates exactly N reads per each sequence contig.
 """
-import sys
+import sys, argparse
 from random import randint, random, choice
 import itertools
+
+try:
+    import plac
+except ImportError as exc:
+    print(f"*** Error: {exc}", file=sys.stderr)
+    print("*** Run: pip install plac", file=sys.stderr)
+    sys.exit(1)
+
 
 def strip(x):
     return x.strip()
 
 BASES = "ATGC"
 
-def parse_fasta(fname):
+def parse_fasta(stream):
     """
     Returns fasta records.
     Loads the entire fasta record into memory.
     """
-    stream = open(fname)
+    #stream = open(fname)
     stream = map(strip, stream)
 
     name = desc = seq = ''
@@ -62,35 +70,34 @@ def apply_error(seq, prob=0.1):
     return seq
 
 
-if __name__ == '__main__':
-
-    if (len(sys.argv) != 3):
-        print (f"Usage: simulate.py input.fa count ")
-        sys.exit(1)
-
-    # Input fasta file
-    fname = sys.argv[1]
-
-    # How many reads to generate.
-    count = int(sys.argv[2])
-
+@plac.annotations(
+    fname=("fasta reference file", "option", "f", argparse.FileType(), None, "PATH"),
+    count=("number of reads per accession", "option", "c", int, None, "INT"),
+    size=("lenght of each read", "option", "s", int, None, "INT"),
+)
+def run(fname, count=1000, size=100):
     # Read size.
-    size = 100
-
-    # Error probability as a fraction.
-    prob = 0.02
 
     f_qual = "I" * size
 
     counter = itertools.count(1)
+
+
     out = parse_fasta(fname)
     for name, desc, seq in out:
 
         for f_start, f_end, f_seq in simulate(seq, count=count, size=size):
             index = next(counter)
             f_name = f"@{name}|{index}|{f_start}-{f_end}"
-            print (f_name)
+            print(f_name)
             print(f_seq)
             print("+")
             print(f_qual)
+
+
+if __name__ == '__main__':
+    plac.call(run)
+
+
+
 

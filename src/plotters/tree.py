@@ -46,11 +46,13 @@ def taxa_data(fname, color_map={}):
     Extract taxa data from a file
     """
     from subprocess import PIPE
+    #TODO being refactored out.
 
     # Ordered list of taxonomic ranks
 
     counts = dict()
     label_map = dict(D="Domain", K="Kingodm", P="Phylum", C="Class", O="Order", F="Family", G="Genus", S="Species")
+
     for rank in RANKS:
         # Find how many lines have this specific rank
         cmd = "awk -v col=4 '{print $col}' " + f"{fname} | grep -c -w '{rank}'"
@@ -165,7 +167,9 @@ def parse_kraken(fname, color_map):
 
         # Return the next child to plot.
         if rank == "S":
-            perc = 10000
+            perc = 180000000
+        else:
+            perc = 8
 
         yield idcount, name, parent_id, perc, color
 

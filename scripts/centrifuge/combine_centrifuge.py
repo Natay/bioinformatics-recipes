@@ -5,10 +5,9 @@ import os
 import sys
 
 import pandas as pd
-from . import utils
+from src import utils
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
-
 
 
 def map_name(name, files, delim='\t'):

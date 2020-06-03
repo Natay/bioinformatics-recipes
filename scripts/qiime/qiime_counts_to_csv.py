@@ -5,7 +5,7 @@ It will also convert count data to percentages and produce the produce a percent
 
 import os
 import pandas as pd
-from recipes.code import utils
+from src import utils
 from argparse import ArgumentParser
 
 

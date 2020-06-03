@@ -20,7 +20,7 @@ def get_colnames(fnames):
 
 
 def plot(data, args):
-    from . import plotter
+    from src.plotters import plotter
 
     # Plot a heatmap
     plotter.heatmap(data=data, colidx=2, fname="heatmap.png")

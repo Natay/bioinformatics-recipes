@@ -1,0 +1,19 @@
+
+<html>
+<body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<div class="ui container">
+
+{% for plot in plots %}
+<div class="ui vertical segment" style="padding-top: 10px;">
+    {{ plot |safe }}
+</div>
+{% endfor %}
+</div>
+</body>
+</html>

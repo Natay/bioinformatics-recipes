@@ -21,7 +21,7 @@ SANKEY_RANKS = args[4]
 OUTDIR = getwd()
 
 # Output file name
-OUT_FILE = args[5] | "pavian-report.html"
+OUT_FILE = "pavian-report.html"
 
 # Report title
 REPORT_TITLE = "Pavian classification report "

@@ -4,6 +4,12 @@ Evaluates a kraken2/centrtifuge report files.
 Requires a taxonomy file that identifies the taxonomy id of each accession number.
 """
 import csv, sys, argparse
+from pprint import pprint
+
+try:
+    from pathlib import Path
+except ImportError:  # in Python 2.7
+    Path = str
 
 try:
     import plac
@@ -13,6 +19,30 @@ except ImportError as exc:
     sys.exit(1)
 
 from collections import defaultdict
+
+def parse_qiime_output(fname):
+    """
+    Parses lines such as:
+
+        Feature ID	Taxid	Taxon	Confidence
+        MG570454|1|13346-13446	186623	Eukaryota;Chordata;Actinopteri	0.9905904770433329
+
+    Returns a dictionary keyed by accession/taxid that counts how many times that key was seen in the output.
+
+        { ("AP012081", 67547): 3994  }
+
+    """
+    store = defaultdict(int)
+    stream = open(fname)
+    reader = csv.DictReader(stream, delimiter="\t")
+    for row in reader:
+        name, taxid = row["Feature ID"], row["Taxid"]
+        name = name.split("|")[0]
+        key = (name, taxid)
+        store[key] += 1
+    
+    return store
+
 
 
 def parse_centrifuge_output(fname):
@@ -85,11 +115,15 @@ def evaluate(tname, lookup, expected):
         print("\t".join(row))
 
 
-@plac.annotations(
-    fname=("kraken2/centrifuge output of classified reads", "option", "f", str, None, "PATH"),
-    tname=("file to connect each accession to a taxid", "option", "t", str, None, "PATH"),
-    count=("the expected read counts for each accession", "option", "c", int, None, "INT"),
-)
+#@plac.annotations(
+#    fname=("kraken2/centrifuge output of classified reads", "option", "f", str),
+#    tname=("file to connect each accession to a taxid", "option", "t", str, None, "PATH"),
+#    count=("the expected read counts for each accession", "option", "c", int, None, "INT"),
+#)
+
+@plac.opt('fname', "results file", type=Path)
+@plac.opt('tname', "taxid file", type=Path)
+@plac.opt('count', "expected counts", type=int)
 def run(fname, tname, count=1000):
 
     # Decide if it is kraken2 or centrifuge output
@@ -98,6 +132,8 @@ def run(fname, tname, count=1000):
     if "seqID" in header:
         # Centrifuge output has a header
         lookup = parse_centrifuge_output(fname)
+    elif "Feature" in header:
+        lookup = parse_qiime_output(fname)
     else:
         lookup = parse_kraken2_output(fname)
 

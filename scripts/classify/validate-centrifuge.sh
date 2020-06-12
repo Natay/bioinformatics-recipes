@@ -4,6 +4,9 @@
 
 set -uex
 
+# Input file that contains the accession numbers.
+ACC=acc.txt
+
 # Use the taxonomy specific files to build the custom database.
 TAXDIR=~/refs/taxonomy
 
@@ -29,18 +32,11 @@ mkdir -p $TAXDIR
 # (cd $TAXDIR && wget ftp://ftp.ncbi.nih.gov/pub/taxonomy/accession2taxid/nucl_gb.accession2taxid.gz)
 
 # Uncompress the taxonomy files.
-# (cd $TAXDIR &&  tar -xzvf $TAXDIR/taxdump.tar)
+# (cd $TAXDIR &&  tar -xzvf $TAXDIR/taxdump.tar.gz)
 # (cd $TAXDIR && gunzip nucl_gb.accession2taxid.gz)
 
 # Create the conversion table (accession to taxid mapping).
 # cat $TAXDIR/nucl_gb.accession2taxid | cut -f 2,3 > $TABLE
-
-
-# (cd ~/refs && kraken2-build --download-taxonomy --db kraken2)
-#
-
-# Input file that contains the accession numbers.
-ACC=acc.txt
 
 # How many reads to simulate.
 N=1000
@@ -88,7 +84,7 @@ mkdir -p index
 centrifuge-build -p 2 --conversion-table $TABLE --taxonomy-tree $NODES --name-table $NAMES $FASTA $INDEX >> runlog.txt
 
 # Install the plac command parser.
-pip install plac -q
+pip install plac --upgrade -q
 
 # The location of the code that simulates the reads.
 URL1=https://raw.githubusercontent.com/biostars/biocode/master/scripts/fasta/simulate.py

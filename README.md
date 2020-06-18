@@ -1,9 +1,9 @@
-# Bioinformatics utilities
+# Bioinformatics code
 
-Utility scripts used in recipes published via:
+The software in this repository are not meant to provide generic and reusable components. 
+
+The code here was written to support short and focused solutions needed to complete custom analyses.
+
+Some of the programs in this repository are used in recipes published via:
 
 https://www.bioinformatics.recipes
-
-Software in this repository is not meant to provide generic and reusable components. 
-
-Instead, the code here is meant to support minimalistic and quick solutions needed to complete certain analyses.

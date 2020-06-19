@@ -1,0 +1,1619 @@
+Family	Genus	Species	Subspecies	Status	Common name	Region
+Achiridae	Trinectes	maculatus		native	Hogchoker	North America
+Acipenseridae	Acipenser	brevirostrum		native	Shortnose sturgeon	North America
+Acipenseridae	Acipenser	fulvescens		native	Lake sturgeon	North America
+Acipenseridae	Acipenser	medirostris		native	Green sturgeon	North America
+Acipenseridae	Acipenser	oxyrinchus	desotoi	native	Atlantic sturgeon	North America
+Acipenseridae	Acipenser	oxyrinchus	oxyrinchus	native	Gulf sturgeon	North America
+Acipenseridae	Acipenser	oxyrinchus		native	Atlantic sturgeon	North America
+Acipenseridae	Acipenser	transmontanus		native	White sturgeon	North America
+Acipenseridae	Scaphirhynchus	albus		endemic	Pallid sturgeon	North America
+Acipenseridae	Scaphirhynchus	platorynchus		native	Shovelnose sturgeon	North America
+Acipenseridae	Scaphirhynchus	suttkusi		endemic	Alabama sturgeon	North America
+Amblyopsidae	Amblyopsis	hoosieri		native	Hoosier cavefish	North America
+Amblyopsidae	Amblyopsis	rosae		endemic	Ozark cavefish	North America
+Amblyopsidae	Amblyopsis	spelaea		endemic	Northern cavefish	North America
+Amblyopsidae	Chologaster	cornuta		endemic	Swampfish	North America
+Amblyopsidae	Forbesichthys	agassizii		endemic	Spring cavefish	North America
+Amblyopsidae	Speoplatyrhinus	poulsoni		endemic	Alabama cavefish	North America
+Amblyopsidae	Typhlichthys	subterraneus		endemic	Southern cavefish	North America
+Amiidae	Amia	calva		native	Bowfin	North America
+Anguillidae	Anguilla	rostrata		native	American eel	North America
+Aphredoderidae	Aphredoderus	sayanus		endemic	Pirate perch	North America
+Atherinopsidae	Atherinella	callida				North America
+Atherinopsidae	Chirostoma	bartoni				North America
+Atherinopsidae	Chirostoma	charari				North America
+Atherinopsidae	Chirostoma	labarcae				North America
+Atherinopsidae	Chirostoma	promelas				North America
+Atherinopsidae	Chirostoma	riojai				North America
+Atherinopsidae	Labidesthes	sicculus		native	Brook silverside	North America
+Atherinopsidae	Labidesthes	vanhyningi		native	Golden silverside	North America
+Atherinopsidae	Menidia	audens		native	Mississippi silverside	North America
+Atherinopsidae	Menidia	beryllina		native	Inland silverside	North America
+Atherinopsidae	Menidia	clarkhubbsi		native	Texas silverside	North America
+Atherinopsidae	Menidia	extensa		endemic	Waccamaw silverside	North America
+Atherinopsidae	Poblana	alchichica				North America
+Atherinopsidae	Poblana	ferdebueni				North America
+Atherinopsidae	Poblana	letholepis				North America
+Atherinopsidae	Poblana	squamata				North America
+Belonidae	Strongylura	marina		native	Atlantic needlefish	North America
+Belonidae	Strongylura	notata	forsythia	native	redfin needlefish	North America
+Blenniidae	Omobranchus	ferox		introduced	Gossamer blenny	North America
+Callichthyidae	Hoplosternum	littorale		introduced	Atipa	North America
+Carcharhinidae	Carcharhinus	leucas		native	Bull shark	North America
+Catostomidae	Carpiodes	carpio		native	River carpsucker	North America
+Catostomidae	Carpiodes	cyprinus		native	Quillback	North America
+Catostomidae	Carpiodes	velifer		endemic	Highfin carpsucker	North America
+Catostomidae	Catostomus	ardens		native	Utah sucker	North America
+Catostomidae	Catostomus	bernardini				North America
+Catostomidae	Catostomus	bondi		native	Cascadian Sucker	North America
+Catostomidae	Catostomus	cahita				North America
+Catostomidae	Catostomus	catostomus	catostomus			North America
+Catostomidae	Catostomus	catostomus		native	Longnose sucker	North America
+Catostomidae	Catostomus	clarkii		native	Desert sucker	North America
+Catostomidae	Catostomus	columbianus		native	Bridgelip sucker	North America
+Catostomidae	Catostomus	commersonii		native	White sucker	North America
+Catostomidae	Catostomus	discobolus	discobolus			North America
+Catostomidae	Catostomus	discobolus	jarrovi			North America
+Catostomidae	Catostomus	discobolus		endemic	Bluehead sucker	North America
+Catostomidae	Catostomus	fumeiventris		endemic	Owens sucker	North America
+Catostomidae	Catostomus	insignis		native	Sonora sucker	North America
+Catostomidae	Catostomus	latipinnis		endemic	Flannelmouth sucker	North America
+Catostomidae	Catostomus	leopoldi				North America
+Catostomidae	Catostomus	macrocheilus		native	Largescale sucker	North America
+Catostomidae	Catostomus	microps		endemic	Modoc sucker	North America
+Catostomidae	Catostomus	nebuliferus				North America
+Catostomidae	Catostomus	occidentalis	lacusanserinus			North America
+Catostomidae	Catostomus	occidentalis		native	Sacramento sucker	North America
+Catostomidae	Catostomus	platyrhynchus		native	Mountain sucker	North America
+Catostomidae	Catostomus	plebeius		native	Rio Grande sucker	North America
+Catostomidae	Catostomus	rimiculus		endemic	Jenny creek sucker	North America
+Catostomidae	Catostomus	santaanae		endemic	Santa Ana sucker	North America
+Catostomidae	Catostomus	snyderi		endemic	Klamath largescale sucker	North America
+Catostomidae	Catostomus	tahoensis		native	Tahoe sucker	North America
+Catostomidae	Catostomus	tsiltcoosensis		native	Tyee sucker	North America
+Catostomidae	Catostomus	utawana		endemic	Summer sucker	North America
+Catostomidae	Catostomus	warnerensis		endemic	Warner sucker	North America
+Catostomidae	Catostomus	wigginsi				North America
+Catostomidae	Chasmistes	brevirostris		endemic	Shortnose sucker	North America
+Catostomidae	Chasmistes	cujus		native	Cui-ui	North America
+Catostomidae	Chasmistes	fecundus		native	Webug sucker	North America
+Catostomidae	Chasmistes	liorus	liorus			North America
+Catostomidae	Chasmistes	liorus	mictus			North America
+Catostomidae	Chasmistes	liorus		endemic	June sucker	North America
+Catostomidae	Chasmistes	muriei		native	Snake River sucker	North America
+Catostomidae	Cycleptus	elongatus		native	Blue sucker	North America
+Catostomidae	Cycleptus	meridionalis		native	southeastern blue sucker	North America
+Catostomidae	Deltistes	luxatus		endemic	Lost River sucker	North America
+Catostomidae	Erimyzon	claviformis		native	Western creek chubsucker	North America
+Catostomidae	Erimyzon	oblongus	claviformis			North America
+Catostomidae	Erimyzon	oblongus		endemic	Eastern creek chubsucker	North America
+Catostomidae	Erimyzon	sucetta	kennerlii			North America
+Catostomidae	Erimyzon	sucetta		native	Lake chubsucker	North America
+Catostomidae	Erimyzon	tenuis		endemic	Sharpfin chubsucker	North America
+Catostomidae	Hypentelium	etowanum		endemic	Alabama hog sucker	North America
+Catostomidae	Hypentelium	nigricans		native	Northern hog sucker	North America
+Catostomidae	Hypentelium	roanokense		endemic	Roanoke hog sucker	North America
+Catostomidae	Ictiobus	bubalus		native	Smallmouth buffalo	North America
+Catostomidae	Ictiobus	cyprinellus		native	Bigmouth buffalo	North America
+Catostomidae	Ictiobus	niger		native	Black buffalo	North America
+Catostomidae	Minytrema	melanops		native	Spotted sucker	North America
+Catostomidae	Moxostoma	anisurum		native	Silver redhorse	North America
+Catostomidae	Moxostoma	ariommum		native	Bigeye jumprock	North America
+Catostomidae	Moxostoma	austrinum		native	Mexican redhorse	North America
+Catostomidae	Moxostoma	breviceps		native	Smallmouth redhorse	North America
+Catostomidae	Moxostoma	carinatum		native	River redhorse	North America
+Catostomidae	Moxostoma	cervinum		endemic	Blacktip jumprock	North America
+Catostomidae	Moxostoma	collapsum		native	Notchlip redhorse	North America
+Catostomidae	Moxostoma	congestum		native	Gray redhorse	North America
+Catostomidae	Moxostoma	duquesnei				North America
+Catostomidae	Moxostoma	duquesnii		native	Black redhorse	North America
+Catostomidae	Moxostoma	erythrurum		native	Golden redhorse	North America
+Catostomidae	Moxostoma	hubbsi				North America
+Catostomidae	Moxostoma	lacerum				North America
+Catostomidae	Moxostoma	lachneri		endemic	Greater jumprock	North America
+Catostomidae	Moxostoma	macrolepidotum		native	Shorthead redhorse	North America
+Catostomidae	Moxostoma	pappillosum		native	V-lip redhorse	North America
+Catostomidae	Moxostoma	pisolabrum		native	Pealip redhorse	North America
+Catostomidae	Moxostoma	poecilurum		endemic	Blacktail redhorse	North America
+Catostomidae	Moxostoma	robustum		endemic	Smallfin redhorse	North America
+Catostomidae	Moxostoma	rupiscartes		endemic	Striped jumprock	North America
+Catostomidae	Moxostoma	valenciennesi		native	Greater redhorse	North America
+Catostomidae	Thoburnia	atripinnis		endemic	Blackfin sucker	North America
+Catostomidae	Thoburnia	hamiltoni		endemic	Rustyside sucker	North America
+Catostomidae	Thoburnia	rhothoeca		endemic	Torrent sucker	North America
+Catostomidae	Xyrauchen	texanus		native	Razorback sucker	North America
+Centrarchidae	Acantharchus	pomotis		endemic	Mud sunfish	North America
+Centrarchidae	Ambloplites	ariommus		endemic	Shadow bass	North America
+Centrarchidae	Ambloplites	cavifrons		endemic	Roanoke bass	North America
+Centrarchidae	Ambloplites	constellatus		endemic	Ozark bass	North America
+Centrarchidae	Ambloplites	rupestris		native	Rock bass	North America
+Centrarchidae	Archoplites	interruptus		endemic	Sacramento perch	North America
+Centrarchidae	Centrarchus	macropterus		endemic	Flier	North America
+Centrarchidae	Enneacanthus	chaetodon		endemic	Blackbanded sunfish	North America
+Centrarchidae	Enneacanthus	gloriosus		endemic	Bluespotted sunfish	North America
+Centrarchidae	Enneacanthus	obesus		endemic	Banded sunfish	North America
+Centrarchidae	Lepomis	auritus		native	Redbreast sunfish	North America
+Centrarchidae	Lepomis	cyanellus		native	Green sunfish	North America
+Centrarchidae	Lepomis	gibbosus		native	Pumpkinseed	North America
+Centrarchidae	Lepomis	gulosus		native	Warmouth	North America
+Centrarchidae	Lepomis	humilis		endemic	Orangespotted sunfish	North America
+Centrarchidae	Lepomis	humilus				North America
+Centrarchidae	Lepomis	macrochirus		native	Bluegill	North America
+Centrarchidae	Lepomis	marginatus		endemic	Dollar sunfish	North America
+Centrarchidae	Lepomis	megalotis	peltastes			North America
+Centrarchidae	Lepomis	megalotis		native	Longear sunfish	North America
+Centrarchidae	Lepomis	microlophus		endemic	Redear sunfish	North America
+Centrarchidae	Lepomis	miniatus		native	Redspotted sunfish	North America
+Centrarchidae	Lepomis	peltastes		native	Northern sunfish	North America
+Centrarchidae	Lepomis	punctatus		endemic	Spotted sunfish	North America
+Centrarchidae	Lepomis	symmetricus		endemic	Bantam sunfish	North America
+Centrarchidae	Micropterus	cahabae		endemic	Cahaba bass	North America
+Centrarchidae	Micropterus	cataractae		native	Shoal bass	North America
+Centrarchidae	Micropterus	chattahoochae		endemic	Chattahoochee bass	North America
+Centrarchidae	Micropterus	coosae		endemic	Redeye bass	North America
+Centrarchidae	Micropterus	dolomieu		native	Smallmouth bass	North America
+Centrarchidae	Micropterus	floridanus		native	Florida bass	North America
+Centrarchidae	Micropterus	henshalli		native	Alabama bass	North America
+Centrarchidae	Micropterus	notius		endemic	Suwannee bass	North America
+Centrarchidae	Micropterus	punctulatus		endemic	Spotted bass	North America
+Centrarchidae	Micropterus	salmoides		native	Largemouth bass	North America
+Centrarchidae	Micropterus	salmoides	floridanus	native	Southern Largmouth bass	North America
+Centrarchidae	Micropterus	salmoides	salmoides	native	Northern Largemouth bass	North America
+Centrarchidae	Micropterus	tallapoosae		endemic	Tallapoosa bass	North America
+Centrarchidae	Micropterus	treculii		endemic	Guadalupe bass	North America
+Centrarchidae	Micropterus	warriorensis		endemic	Warrior bass	North America
+Centrarchidae	Pomoxis	annularis		native	White crappie	North America
+Centrarchidae	Pomoxis	nigromaculatus		native	Black crappie	North America
+Centropomidae	Centropomus	ensiferus		native	Swordspine snook	North America
+Centropomidae	Centropomus	parallelus		native	Fat snook	North America
+Centropomidae	Centropomus	pectinatus		native	Tarpon snook	North America
+Centropomidae	Centropomus	undecimalis		native	Common snook	North America
+Channidae	Channa	argus		introduced	Snakehead	North America
+Channidae	Channa	marulius		introduced	Great snakehead	North America
+Channidae	Channa	striata		introduced	Striped snakehead	North America
+Characidae	Astyanax	mexicanus		native	Mexican tetra	North America
+Cichlidae	Amatitlania	nigrofasciata		introduced	Convict cichlid	North America
+Cichlidae	Amphilophus	citrinellus		introduced	Midas cichlid	North America
+Cichlidae	Astronotus	ocellatus		introduced	Oscar	North America
+Cichlidae	Cichla	monoculus		introduced	tucanare peacock bass	North America
+Cichlidae	Cichla	ocellaris		introduced	Peacock cichlid	North America
+Cichlidae	Cichla	temensis		introduced	Speckled pavon	North America
+Cichlidae	Cichlasoma	bimaculatum		introduced	Black acara	North America
+Cichlidae	Coptodon	zillii		introduced	Redbelly tilapia	North America
+Cichlidae	Geophagus	surinamensis		introduced	Redstriped eartheater	North America
+Cichlidae	Hemichromis	bimaculatus		introduced	Jewelfish	North America
+Cichlidae	Herichthys	bartoni				North America
+Cichlidae	Herichthys	cyanoguttatus		native	Rio Grande cichlid	North America
+Cichlidae	Herichthys	labridens				North America
+Cichlidae	Herichthys	minckleyi				North America
+Cichlidae	Herichthys	steindachneri				North America
+Cichlidae	Mayaheros	urophthalmus		introduced	Mexican mojarra	North America
+Cichlidae	Oreochromis	aureus		introduced	Blue tilapia	North America
+Cichlidae	Oreochromis	mossambicus		introduced	Mozambique tilapia	North America
+Cichlidae	Oreochromis	niloticus		introduced	Nile tilapia	North America
+Cichlidae	Oreochromis	urolepis		introduced	Wami tilapia	North America
+Cichlidae	Parachromis	managuensis		introduced	Jaguar guapote	North America
+Cichlidae	Pelmatolapia	mariae		introduced	Spotted tilapia	North America
+Cichlidae	Rocio	octofasciata		introduced	Jack Dempsey	North America
+Cichlidae	Sarotherodon	melanotheron		introduced	Blackchin tilapia	North America
+Cichlidae	Thorichthys	meeki		introduced	Firemouth cichlid	North America
+Clariidae	Clarias	batrachus		introduced	Philippine catfish	North America
+Clupeidae	Alosa	aestivalis		native	Blueback shad	North America
+Clupeidae	Alosa	alabamae		native	Alabama shad	North America
+Clupeidae	Alosa	chrysochloris		native	Skipjack shad	North America
+Clupeidae	Alosa	mediocris		native	Hickory shad	North America
+Clupeidae	Alosa	pseudoharengus		native	Alewife	North America
+Clupeidae	Alosa	sapidissima		native	American shad	North America
+Clupeidae	Dorosoma	cepedianum		native	American gizzard shad	North America
+Clupeidae	Dorosoma	petenense		native	Threadfin shad	North America
+Cobitidae	Misgurnus	anguillicaudatus		introduced	Pond loach	North America
+Cottidae	Cottus	aleuticus		native	Coastrange sculpin	North America
+Cottidae	Cottus	asper		native	Prickly sculpin	North America
+Cottidae	Cottus	asperrimus		endemic	Rough sculpin	North America
+Cottidae	Cottus	baileyi		endemic	Black sculpin	North America
+Cottidae	Cottus	bairdii		native	Mottled sculpin	North America
+Cottidae	Cottus	beldingi				North America
+Cottidae	Cottus	beldingii		endemic	Paiute sculpin	North America
+Cottidae	Cottus	bendirei		native	Malheur sculpin	North America
+Cottidae	Cottus	caeruleomentum		endemic	Blue Ridge sculpin	North America
+Cottidae	Cottus	carolinae	carolinae			North America
+Cottidae	Cottus	carolinae		endemic	Banded sculpin	North America
+Cottidae	Cottus	chattahoochee		endemic	Chattahoochee sculpin	North America
+Cottidae	Cottus	cognatus		native	Slimy sculpin	North America
+Cottidae	Cottus	confusus		native	Shorthead sculpin	North America
+Cottidae	Cottus	echinatus		native	Utah Lake sculpin	North America
+Cottidae	Cottus	extensus		endemic	Bear Lake sculpin	North America
+Cottidae	Cottus	girardi		endemic	Potomac sculpin	North America
+Cottidae	Cottus	greenei		endemic	Shoshone sculpin	North America
+Cottidae	Cottus	gulosus		native	Riffle sculpin	North America
+Cottidae	Cottus	hubbsi		native	Columbia sculpin	North America
+Cottidae	Cottus	hypselurus		endemic	Ozark sculpin	North America
+Cottidae	Cottus	immaculatus		native	Knobfin sculpin	North America
+Cottidae	Cottus	kanawhae		native	Kanawha sculpin	North America
+Cottidae	Cottus	klamathensis	macrops			North America
+Cottidae	Cottus	klamathensis		endemic	Marbled sculpin	North America
+Cottidae	Cottus	leiopomus		endemic	Wood River sculpin	North America
+Cottidae	Cottus	marginatus		endemic	Margined sculpin	North America
+Cottidae	Cottus	paulus		endemic	Pygmy sculpin	North America
+Cottidae	Cottus	perplexus		endemic	Reticulate sculpin	North America
+Cottidae	Cottus	pitensis		endemic	Pit sculpin	North America
+Cottidae	Cottus	princeps		endemic	Klamath Lake sculpin	North America
+Cottidae	Cottus	rhotheus		native	Torrent sculpin	North America
+Cottidae	Cottus	ricei		native	Spoonhead sculpin	North America
+Cottidae	Cottus	schitsuumsh		native	Cedar sculpin	North America
+Cottidae	Cottus	specus		native	Grotto sculpin	North America
+Cottidae	Cottus	tallapoosae		endemic	Tallapoosa sculp	North America
+Cottidae	Cottus	tenuis		endemic	Slender sculpin	North America
+Cottidae	Myoxocephalus	quadricornis				North America
+Cottidae	Myoxocephalus	thompsoni				North America
+Cottidae	Myoxocephalus	thompsonii		native	Deepwater sculpin	North America
+Cyprinidae	Acrocheilus	alutaceus		native	Chiselmouth	North America
+Cyprinidae	Agosia	chrysogaster		native	Longfin dace	North America
+Cyprinidae	Algansea	aphanea				North America
+Cyprinidae	Algansea	avia				North America
+Cyprinidae	Algansea	barbata				North America
+Cyprinidae	Algansea	popoche				North America
+Cyprinidae	Barbonymus	schwanenfeldii		introduced	Tinfoil barb	North America
+Cyprinidae	Campostoma	anomalum	pullum			North America
+Cyprinidae	Campostoma	anomalum		native	Central stoneroller	North America
+Cyprinidae	Campostoma	oligolepis		endemic	Largescale stoneroller	North America
+Cyprinidae	Campostoma	ornatum		native	Mexican stoneroller	North America
+Cyprinidae	Campostoma	pauciradii		endemic	Bluefin stoneroller	North America
+Cyprinidae	Campostoma	pullum		native	Central stoneroller	North America
+Cyprinidae	Campostoma	spadiceum		endemic	Highland stoneroller	North America
+Cyprinidae	Carassius	auratus		introduced	Goldfish	North America
+Cyprinidae	Chrosomus	cumberlandensis		native	Blackside dace	North America
+Cyprinidae	Chrosomus	eos		native	Northern redbelly dace	North America
+Cyprinidae	Chrosomus	erythrogaster		native	Southern redbelly dace	North America
+Cyprinidae	Chrosomus	neogaeus		native	Finescale dace	North America
+Cyprinidae	Chrosomus	oreas		native	Mountain redbelly dace	North America
+Cyprinidae	Chrosomus	saylori		native	Laurel dace	North America
+Cyprinidae	Chrosomus	tennesseensis		native	Tennessee dace	North America
+Cyprinidae	Clinostomus	elongatus		native	Redside dace	North America
+Cyprinidae	Clinostomus	funduloides		native	Rosyside dace	North America
+Cyprinidae	Couesius	plumbeus		native	Lake chub	North America
+Cyprinidae	Ctenopharyngodon	idella		introduced	Grass carp	North America
+Cyprinidae	Cyprinella	alvarezdelvillari				North America
+Cyprinidae	Cyprinella	analostana		endemic	Satinfin shiner	North America
+Cyprinidae	Cyprinella	bocagrande				North America
+Cyprinidae	Cyprinella	caerulea		endemic	Blue shiner	North America
+Cyprinidae	Cyprinella	callisema		endemic	Ocmulgee shiner	North America
+Cyprinidae	Cyprinella	callistia		native	Alabama shiner	North America
+Cyprinidae	Cyprinella	callitaenia		endemic	Bluestripe shiner	North America
+Cyprinidae	Cyprinella	camura		native	Bluntface shiner	North America
+Cyprinidae	Cyprinella	chloristia		endemic	Greenfin shiner	North America
+Cyprinidae	Cyprinella	eurystoma		native		North America
+Cyprinidae	Cyprinella	formosa		native	Beautiful shiner	North America
+Cyprinidae	Cyprinella	galactura		endemic	Whitetail shiner	North America
+Cyprinidae	Cyprinella	garmani				North America
+Cyprinidae	Cyprinella	gibbsi		endemic	Tallapoosa shiner	North America
+Cyprinidae	Cyprinella	labrosa		endemic	Thicklip chub	North America
+Cyprinidae	Cyprinella	leedsi		endemic	Bannerfin shiner	North America
+Cyprinidae	Cyprinella	lepida		endemic	Plateau shiner	North America
+Cyprinidae	Cyprinella	lutrensis	blairi			North America
+Cyprinidae	Cyprinella	lutrensis	forlonensis			North America
+Cyprinidae	Cyprinella	lutrensis		native	Red shiner	North America
+Cyprinidae	Cyprinella	monacha		endemic	Spotfin chub	North America
+Cyprinidae	Cyprinella	nivea		native	Whitefin shiner	North America
+Cyprinidae	Cyprinella	ornata				North America
+Cyprinidae	Cyprinella	panarcys				North America
+Cyprinidae	Cyprinella	proserpina		native	Proserpine shiner	North America
+Cyprinidae	Cyprinella	pyrrhomelas		native	Fieryblack shiner	North America
+Cyprinidae	Cyprinella	rutila				North America
+Cyprinidae	Cyprinella	spiloptera		native	Spotfin shiner	North America
+Cyprinidae	Cyprinella	stigmatura		native		North America
+Cyprinidae	Cyprinella	trichroistia		endemic	Tricolor shiner	North America
+Cyprinidae	Cyprinella	venusta		endemic	Blacktail shiner	North America
+Cyprinidae	Cyprinella	whipplei		endemic	Steelcolor shiner	North America
+Cyprinidae	Cyprinella	xaenura		endemic	Altamaha shiner	North America
+Cyprinidae	Cyprinella	xanthicara				North America
+Cyprinidae	Cyprinella	zanema		endemic	Santee chub	North America
+Cyprinidae	Cyprinus	carpio		introduced	Common carp	North America
+Cyprinidae	Danio	rerio		introduced	Zebra danio	North America
+Cyprinidae	Dionda	argentosa		endemic	Manantial roundnose minnow	North America
+Cyprinidae	Dionda	diaboli		native	Devils River minnow	North America
+Cyprinidae	Dionda	dichroma				North America
+Cyprinidae	Dionda	episcopa		native	Roundnose minnow	North America
+Cyprinidae	Dionda	mandibularis				North America
+Cyprinidae	Dionda	melanops				North America
+Cyprinidae	Dionda	nigrotaeniata		endemic	Guadalupe roundnose minnow	North America
+Cyprinidae	Dionda	serena		endemic	Nueces roundnose minnow	North America
+Cyprinidae	Eremichthys	acros		endemic	Desert dace	North America
+Cyprinidae	Ericymba	amplamala		native	Longjaw minnow	North America
+Cyprinidae	Erimonax	monachus				North America
+Cyprinidae	Erimystax	cahni		endemic	Slender chub	North America
+Cyprinidae	Erimystax	dissimilis		endemic	Streamline chub	North America
+Cyprinidae	Erimystax	harryi		endemic	Ozark chub	North America
+Cyprinidae	Erimystax	insignis		endemic	Blotched chub	North America
+Cyprinidae	Erimystax	punctatus				North America
+Cyprinidae	Erimystax	x-punctatus		native	Gravel chub	North America
+Cyprinidae	Evarra	bustamantei				North America
+Cyprinidae	Evarra	eigenmanni				North America
+Cyprinidae	Evarra	tlahuacensis				North America
+Cyprinidae	Exoglossum	laurae		endemic	Tonguetied minnow	North America
+Cyprinidae	Exoglossum	maxillingua		native	Cutlips minnow	North America
+Cyprinidae	Gila	alvordensis				North America
+Cyprinidae	Gila	atraria		native	Utah chub	North America
+Cyprinidae	Gila	boraxobius				North America
+Cyprinidae	Gila	coerulea		native	Blue chub	North America
+Cyprinidae	Gila	conspersa				North America
+Cyprinidae	Gila	crassicauda				North America
+Cyprinidae	Gila	cypha		native	Humpback chub	North America
+Cyprinidae	Gila	ditaenia		native	Sonora chub	North America
+Cyprinidae	Gila	elegans		native	Bonytail	North America
+Cyprinidae	Gila	intermedia		native	Gila chub	North America
+Cyprinidae	Gila	minacae				North America
+Cyprinidae	Gila	modesta				North America
+Cyprinidae	Gila	nigra		native	Headwater chub	North America
+Cyprinidae	Gila	nigrescens		native	Chihuahua chub	North America
+Cyprinidae	Gila	orcutti				North America
+Cyprinidae	Gila	orcuttii		native	Arroyo chub	North America
+Cyprinidae	Gila	pandora		native	Rio Grande chub	North America
+Cyprinidae	Gila	purpurea		native	Yaqui chub	North America
+Cyprinidae	Gila	robusta	jordani			North America
+Cyprinidae	Gila	robusta	robusta			North America
+Cyprinidae	Gila	robusta		native	Roundtail chub	North America
+Cyprinidae	Gila	seminuda		native	Virgin chub	North America
+Cyprinidae	Hemitremia	flammea		native	Flame chub	North America
+Cyprinidae	Hesperoleucas	symmetricus	mitrulus			North America
+Cyprinidae	Hesperoleucas	symmetricus	navarroensis			North America
+Cyprinidae	Hesperoleucas	symmetricus	parvipinnis			North America
+Cyprinidae	Hesperoleucas	symmetricus	subditus			North America
+Cyprinidae	Hesperoleucas	symmetricus				North America
+Cyprinidae	Hesperoleucus	symmetricus		native	California roach	North America
+Cyprinidae	Hybognathus	amarus		endemic	Rio Grande silvery minnow	North America
+Cyprinidae	Hybognathus	argyritis		native	Western silvery minnow	North America
+Cyprinidae	Hybognathus	hankinsoni		native	Brassy minnow	North America
+Cyprinidae	Hybognathus	hayi		endemic	Cypress minnow	North America
+Cyprinidae	Hybognathus	nuchalis		endemic	Mississippi silvery minnow	North America
+Cyprinidae	Hybognathus	placitus		endemic	Plains minnow	North America
+Cyprinidae	Hybognathus	regius		native	Eastern silvery minnow	North America
+Cyprinidae	Hybopsis	amblops		native	Bigeye chub	North America
+Cyprinidae	Hybopsis	amnis		native	Pallid shiner	North America
+Cyprinidae	Hybopsis	hypsinotus		native	Highback chub	North America
+Cyprinidae	Hybopsis	lineapunctata		native	Lined chub	North America
+Cyprinidae	Hybopsis	rubrifrons		endemic	rosyface chub	North America
+Cyprinidae	Hybopsis	winchelli		native	Clear chub	North America
+Cyprinidae	Hypophthalmichthys	molitrix		introduced	Silver carp	North America
+Cyprinidae	Hypophthalmichthys	nobilis		introduced	Bighead carp	North America
+Cyprinidae	Iotichthys	phlegethontis		native	Least chub	North America
+Cyprinidae	Lavinia	exilicauda	chi			North America
+Cyprinidae	Lavinia	exilicauda		native	Hitch	North America
+Cyprinidae	Lepidomeda	albivallis		native	White River spinedace	North America
+Cyprinidae	Lepidomeda	aliciae		native	Southern leatherside chub	North America
+Cyprinidae	Lepidomeda	altivelis		endemic	Pahranagat spinedace	North America
+Cyprinidae	Lepidomeda	copei		endemic	Northern leatherside chub	North America
+Cyprinidae	Lepidomeda	mollispinis	mollispinis			North America
+Cyprinidae	Lepidomeda	mollispinis	pratensis			North America
+Cyprinidae	Lepidomeda	mollispinis		native	Virgin spinedace	North America
+Cyprinidae	Lepidomeda	vittata		native	Little Colorado spinedace	North America
+Cyprinidae	Leuciscus	idus		introduced	Ide	North America
+Cyprinidae	Luxilus	albeolus		endemic	White shiner	North America
+Cyprinidae	Luxilus	cardinalis		native	Cardinal shiner	North America
+Cyprinidae	Luxilus	cerasinus		native	Crescent shiner	North America
+Cyprinidae	Luxilus	chrysocephalus		native	Striped shiner	North America
+Cyprinidae	Luxilus	coccogenis		native	Warpaint shiner	North America
+Cyprinidae	Luxilus	cornutus		native	Common shiner	North America
+Cyprinidae	Luxilus	pilsbryi		native	Duskystripe shiner	North America
+Cyprinidae	Luxilus	zonatus		endemic	Bleeding shiner	North America
+Cyprinidae	Luxilus	zonistius		native	Bandfin shiner	North America
+Cyprinidae	Lythrurus	alegnotus		native	Warrior shiner	North America
+Cyprinidae	Lythrurus	ardens		endemic	Rosefin shiner	North America
+Cyprinidae	Lythrurus	atrapiculus		endemic	Blacktip shiner	North America
+Cyprinidae	Lythrurus	bellus		endemic	Pretty shiner	North America
+Cyprinidae	Lythrurus	fasciolaris		endemic	Scarlet shiner	North America
+Cyprinidae	Lythrurus	fumeus		endemic	Ribbon shiner	North America
+Cyprinidae	Lythrurus	lirus		native	Mountain shiner	North America
+Cyprinidae	Lythrurus	matutinus		endemic	Pinewoods shiner	North America
+Cyprinidae	Lythrurus	roseipinnis		endemic	Cherryfin shiner	North America
+Cyprinidae	Lythrurus	snelsoni		endemic	Ouachita shiner	North America
+Cyprinidae	Lythrurus	umbratilis		native	Redfin shiner	North America
+Cyprinidae	Macrhybopsis	aestivalis		native	Speckled chub	North America
+Cyprinidae	Macrhybopsis	australis		endemic	Prairie chub	North America
+Cyprinidae	Macrhybopsis	boschungi		native	Mobile chub	North America
+Cyprinidae	Macrhybopsis	etnieri		native	Coosa chub	North America
+Cyprinidae	Macrhybopsis	gelida		endemic	Sturgeon chub	North America
+Cyprinidae	Macrhybopsis	hyostoma		native	Shoal chub	North America
+Cyprinidae	Macrhybopsis	marconis		native	Burrhead chub	North America
+Cyprinidae	Macrhybopsis	meeki		endemic	Sicklefin chub	North America
+Cyprinidae	Macrhybopsis	pallida		native	Pallid chub	North America
+Cyprinidae	Macrhybopsis	storeriana		native	Silver chub	North America
+Cyprinidae	Macrhybopsis	tetranema		endemic	Peppered chub	North America
+Cyprinidae	Macrhybopsis	tomellerii		native	Gulf chub	North America
+Cyprinidae	Margariscus	margarita	margarita			North America
+Cyprinidae	Margariscus	margarita	nachtriebi			North America
+Cyprinidae	Margariscus	margarita		native	Allegheny pearl dace	North America
+Cyprinidae	Margariscus	nachtriebi		native	Northern pearl dace	North America
+Cyprinidae	Meda	fulgida		native	Spikedace	North America
+Cyprinidae	Moapa	coriacea		endemic	Moapa dace	North America
+Cyprinidae	Mylocheilus	caurinus		native	Peamouth	North America
+Cyprinidae	Mylopharodon	conocephalus		native	Hardhead	North America
+Cyprinidae	Mylopharyngodon	piceus		introduced	Black carp	North America
+Cyprinidae	Nocomis	asper		endemic	Redspot chub	North America
+Cyprinidae	Nocomis	biguttatus		native	Hornyhead chub	North America
+Cyprinidae	Nocomis	effusus		endemic	Redtail chub	North America
+Cyprinidae	Nocomis	leptocephalus		endemic	Bluehead chub	North America
+Cyprinidae	Nocomis	micropogon		native	River chub	North America
+Cyprinidae	Nocomis	platyrhynchus		endemic	Bigmouth chub	North America
+Cyprinidae	Nocomis	raneyi		endemic	Bull chub	North America
+Cyprinidae	Notemigonus	crysoleucas		native	Golden shiner	North America
+Cyprinidae	Notropis	aguirrepequenoi				North America
+Cyprinidae	Notropis	albizonatus		native	Palezone shiner	North America
+Cyprinidae	Notropis	alborus		native	Whitemouth shiner	North America
+Cyprinidae	Notropis	altipinnis		native	Highfin shiner	North America
+Cyprinidae	Notropis	amabilis		native	Texas shiner	North America
+Cyprinidae	Notropis	amecae				North America
+Cyprinidae	Notropis	ammophilus		native	Orangefin shiner	North America
+Cyprinidae	Notropis	amoenus		native	Comely shiner	North America
+Cyprinidae	Notropis	anogenus		native	Pugnose shiner	North America
+Cyprinidae	Notropis	ariommus		native	Popeye shiner	North America
+Cyprinidae	Notropis	asperifrons		native	Burrhead shiner	North America
+Cyprinidae	Notropis	atherinoides	acutus			North America
+Cyprinidae	Notropis	atherinoides		native	Emerald shiner	North America
+Cyprinidae	Notropis	atrocaudalis		native	Blackspot shiner	North America
+Cyprinidae	Notropis	aulidion				North America
+Cyprinidae	Notropis	baileyi		native	Rough shiner	North America
+Cyprinidae	Notropis	bairdi		native	Red River shiner	North America
+Cyprinidae	Notropis	bifrenatus		native	Bridle shiner	North America
+Cyprinidae	Notropis	blennius		native	River shiner	North America
+Cyprinidae	Notropis	boops		native	Bigeye shiner	North America
+Cyprinidae	Notropis	boucardi				North America
+Cyprinidae	Notropis	braytoni		native	Tamaulipas shiner	North America
+Cyprinidae	Notropis	buccatus		native	Silverjaw minnow	North America
+Cyprinidae	Notropis	buccula		native	Smalleye shiner	North America
+Cyprinidae	Notropis	buchanani		native	Ghost shiner	North America
+Cyprinidae	Notropis	cahabae		endemic	Cahaba shiner	North America
+Cyprinidae	Notropis	candidus		endemic	Silverside shiner	North America
+Cyprinidae	Notropis	chalybaeus		endemic	Ironcolor shiner	North America
+Cyprinidae	Notropis	chalybeus				North America
+Cyprinidae	Notropis	chihuahua		native	Chihuahua shiner	North America
+Cyprinidae	Notropis	chiliticus		native	Redlip shiner	North America
+Cyprinidae	Notropis	chlorocephalus		endemic	Greenhead shiner	North America
+Cyprinidae	Notropis	chrosomus		native	Rainbow shiner	North America
+Cyprinidae	Notropis	cumingii				North America
+Cyprinidae	Notropis	cummingsae		native	Dusky shiner	North America
+Cyprinidae	Notropis	dorsalis		native	Bigmouth shiner	North America
+Cyprinidae	Notropis	edwardraneyi		endemic	Fluvial shiner	North America
+Cyprinidae	Notropis	girardi		native	Arkansas River shiner	North America
+Cyprinidae	Notropis	greenei		native	Wedgespot shiner	North America
+Cyprinidae	Notropis	harperi		native	Redeye chub	North America
+Cyprinidae	Notropis	heterodon		native	Blackchin shiner	North America
+Cyprinidae	Notropis	heterolepis		native	Blacknose shiner	North America
+Cyprinidae	Notropis	hudsonius		native	Spottail shiner	North America
+Cyprinidae	Notropis	hypsilepis		native	Highscale shiner	North America
+Cyprinidae	Notropis	jemezanus		native	Rio Grande shiner	North America
+Cyprinidae	Notropis	leuciodus		native	Tennessee shiner	North America
+Cyprinidae	Notropis	longirostris		native	Longnose shiner	North America
+Cyprinidae	Notropis	lutipinnis		native	Yellowfin shiner	North America
+Cyprinidae	Notropis	maculatus		native	Taillight shiner	North America
+Cyprinidae	Notropis	mekistocholas		native	Cape Fear shiner	North America
+Cyprinidae	Notropis	melanostomus		endemic	Blackmouth shiner	North America
+Cyprinidae	Notropis	micropteryx		native	Highland shiner	North America
+Cyprinidae	Notropis	moralesi				North America
+Cyprinidae	Notropis	nubilus		native	Ozark minnow	North America
+Cyprinidae	Notropis	orca		endemic	Phantom shiner	North America
+Cyprinidae	Notropis	ortenburgeri		native	Kiamichi shiner	North America
+Cyprinidae	Notropis	oxyrhynchus		native	Sharpnose shiner	North America
+Cyprinidae	Notropis	ozarcanus		native	Ozark shiner	North America
+Cyprinidae	Notropis	percobromus		native	Carmine shiner	North America
+Cyprinidae	Notropis	perpallidus		native	Peppered shiner	North America
+Cyprinidae	Notropis	petersoni		native	Coastal shiner	North America
+Cyprinidae	Notropis	photogenis		native	Silver shiner	North America
+Cyprinidae	Notropis	potteri		native	Chub shiner	North America
+Cyprinidae	Notropis	procne		native	Swallowtail shiner	North America
+Cyprinidae	Notropis	rafinesquei		native	Yazoo shiner	North America
+Cyprinidae	Notropis	rubellus		native	Rosyface shiner	North America
+Cyprinidae	Notropis	rubricroceus		native	Saffron shiner	North America
+Cyprinidae	Notropis	rupestris		endemic	Bedrock shiner	North America
+Cyprinidae	Notropis	sabinae		native	Sabine shiner	North America
+Cyprinidae	Notropis	saladonis				North America
+Cyprinidae	Notropis	scabriceps		native	New River shiner	North America
+Cyprinidae	Notropis	scepticus		native	Sandbar shiner	North America
+Cyprinidae	Notropis	semperasper		native	Roughhead shiner	North America
+Cyprinidae	Notropis	shumardi		native	Silverband shiner	North America
+Cyprinidae	Notropis	simus	pecosensis			North America
+Cyprinidae	Notropis	simus	simus			North America
+Cyprinidae	Notropis	simus		native	Bluntnose shiner	North America
+Cyprinidae	Notropis	spectrunculus		native	Mirror shiner	North America
+Cyprinidae	Notropis	stilbius		native	Silverstripe shiner	North America
+Cyprinidae	Notropis	stramineus		native	Sand shiner	North America
+Cyprinidae	Notropis	suttkusi		endemic	Rocky shiner	North America
+Cyprinidae	Notropis	telescopus		native	Telescope shiner	North America
+Cyprinidae	Notropis	texanus		native	Weed shiner	North America
+Cyprinidae	Notropis	topeka		native	Topeka shiner	North America
+Cyprinidae	Notropis	uranoscopus		native	Skygazer shiner	North America
+Cyprinidae	Notropis	volucellus		native	Mimic shiner	North America
+Cyprinidae	Notropis	wickliffi		native	Channel shiner	North America
+Cyprinidae	Notropis	xaenocephalus		native	Coosa shiner	North America
+Cyprinidae	Opsopoeodus	emiliae	emiliae			North America
+Cyprinidae	Opsopoeodus	emiliae		native	Pugnose minnow	North America
+Cyprinidae	Oregonichthys	crameri		native	Oregon chub	North America
+Cyprinidae	Oregonichthys	kalawatseti		native	Umpquachub	North America
+Cyprinidae	Orthodon	microlepidotus		native	Sacramento blackfish	North America
+Cyprinidae	Pararhinichthys	bowersi		native	Cheat minnow	North America
+Cyprinidae	Pethia	gelius		introduced	Golden barb	North America
+Cyprinidae	Phenacobius	catostomus		endemic	Riffle minnow	North America
+Cyprinidae	Phenacobius	crassilabrum		endemic	Fatlips minnow	North America
+Cyprinidae	Phenacobius	mirabilis		endemic	Suckermouth minnow	North America
+Cyprinidae	Phenacobius	teretulus		endemic	Kanawha minnow	North America
+Cyprinidae	Phenacobius	uranops		endemic	Stargazing minnow	North America
+Cyprinidae	Pimephales	notatus		native	Bluntnose minnow	North America
+Cyprinidae	Pimephales	promelas		native	Fathead minnow	North America
+Cyprinidae	Pimephales	tenellus		native	Slim minnow	North America
+Cyprinidae	Pimephales	vigilax		native	Bullhead minnow	North America
+Cyprinidae	Plagopterus	argentissimus		endemic	Woundfin	North America
+Cyprinidae	Platygobio	gracilis		native	Flathead chub	North America
+Cyprinidae	Pogonichthys	ciscoides		endemic	Clear Lake splittail	North America
+Cyprinidae	Pogonichthys	macrolepidotus		native	Splittail	North America
+Cyprinidae	Pteronotropis	euryzonus		endemic	Broadstripe shiner	North America
+Cyprinidae	Pteronotropis	grandipinnis		native	Apalachee shiner	North America
+Cyprinidae	Pteronotropis	hubbsi		endemic	Bluehead shiner	North America
+Cyprinidae	Pteronotropis	hypselopterus		endemic	Sailfin shiner	North America
+Cyprinidae	Pteronotropis	merlini		endemic	Orangetail shiner	North America
+Cyprinidae	Pteronotropis	metallicus		native	Metallic shiner	North America
+Cyprinidae	Pteronotropis	signipinnis		endemic	Flagfin shiner	North America
+Cyprinidae	Pteronotropis	stonei		endemic	Lowland shiner	North America
+Cyprinidae	Pteronotropis	welaka		endemic	Bluenose shiner	North America
+Cyprinidae	Ptychocheilus	grandis		native	Sacramento pikeminnow	North America
+Cyprinidae	Ptychocheilus	lucius		native	Colorado pikeminnow	North America
+Cyprinidae	Ptychocheilus	oregonensis		native	Northern pikeminnow	North America
+Cyprinidae	Ptychocheilus	umpquae		native	Umpqua pikeminnow	North America
+Cyprinidae	Relictus	solitarius		native	Relict dace	North America
+Cyprinidae	Rhinichthys	atratulus		native	Blacknose dace	North America
+Cyprinidae	Rhinichthys	cataractae	cataractae			North America
+Cyprinidae	Rhinichthys	cataractae	smithi			North America
+Cyprinidae	Rhinichthys	cataractae		native	Longnose dace	North America
+Cyprinidae	Rhinichthys	cobitis		native	Loach minnow	North America
+Cyprinidae	Rhinichthys	deaconi		endemic	Las Vegas Dace	North America
+Cyprinidae	Rhinichthys	evermanni		endemic	Umpqua dace	North America
+Cyprinidae	Rhinichthys	falcatus		native	Leopard dace	North America
+Cyprinidae	Rhinichthys	obtusus		native	Western blacknose dace	North America
+Cyprinidae	Rhinichthys	osculus	lariversi			North America
+Cyprinidae	Rhinichthys	osculus	lethoporus			North America
+Cyprinidae	Rhinichthys	osculus	moapae			North America
+Cyprinidae	Rhinichthys	osculus	nevadensis			North America
+Cyprinidae	Rhinichthys	osculus	oligoporus			North America
+Cyprinidae	Rhinichthys	osculus	osculus			North America
+Cyprinidae	Rhinichthys	osculus	reliquus			North America
+Cyprinidae	Rhinichthys	osculus	thermalis			North America
+Cyprinidae	Rhinichthys	osculus	velifer			North America
+Cyprinidae	Rhinichthys	osculus		native	Speckled dace	North America
+Cyprinidae	Rhinichthys	umatilla		native	Umatilla dace	North America
+Cyprinidae	Rhodeus	sericeus		introduced	Bitterling	North America
+Cyprinidae	Richardsonius	balteatus	hydrophlox			North America
+Cyprinidae	Richardsonius	balteatus		native	Redside shiner	North America
+Cyprinidae	Richardsonius	egregius		native	Lahontan redside	North America
+Cyprinidae	Scardinius	erythrophthalmus		introduced	Rudd	North America
+Cyprinidae	Semotilus	atromaculatus		native	Creek chub	North America
+Cyprinidae	Semotilus	corporalis		native	Fallfish	North America
+Cyprinidae	Semotilus	lumbee		endemic	Sandhills chub	North America
+Cyprinidae	Semotilus	thoreauianus		native	Dixie chub	North America
+Cyprinidae	Siphateles	alvordensis		native	Alvord chub	North America
+Cyprinidae	Siphateles	bicolor	euchila			North America
+Cyprinidae	Siphateles	bicolor	eurysoma			North America
+Cyprinidae	Siphateles	bicolor	isolata			North America
+Cyprinidae	Siphateles	bicolor	mohavensis			North America
+Cyprinidae	Siphateles	bicolor	newarkensis			North America
+Cyprinidae	Siphateles	bicolor	pectinifer			North America
+Cyprinidae	Siphateles	bicolor	snyderi			North America
+Cyprinidae	Siphateles	bicolor	thalassina			North America
+Cyprinidae	Siphateles	bicolor	vaccaceps			North America
+Cyprinidae	Siphateles	bicolor		native	Tui chub	North America
+Cyprinidae	Siphateles	boraxobius		endemic	Borax Lake chub	North America
+Cyprinidae	Stypodon	signifer				North America
+Cyprinidae	Tinca	tinca		introduced	Tench	North America
+Cyprinodontidae	Cualac	tesselatus				North America
+Cyprinodontidae	Cyprindon	eremus				North America
+Cyprinodontidae	Cyprinodon	alvarezi				North America
+Cyprinodontidae	Cyprinodon	arcuatus		endemic	Santa Cruz pupfish	North America
+Cyprinodontidae	Cyprinodon	atrorus				North America
+Cyprinodontidae	Cyprinodon	bifasciatus				North America
+Cyprinodontidae	Cyprinodon	bobmilleri				North America
+Cyprinodontidae	Cyprinodon	bovinus		endemic	Leon Springs pupfish	North America
+Cyprinodontidae	Cyprinodon	ceciliae				North America
+Cyprinodontidae	Cyprinodon	diabolis		endemic	Devils Hole pupfish	North America
+Cyprinodontidae	Cyprinodon	elegans		endemic	Comanche Springs pupfish	North America
+Cyprinodontidae	Cyprinodon	eremus		native	Sonoyta pupfish	North America
+Cyprinodontidae	Cyprinodon	eximius		native	Conchos pupfish	North America
+Cyprinodontidae	Cyprinodon	fontinalis				North America
+Cyprinodontidae	Cyprinodon	hubbsi		native	Lake Eustis minnow	North America
+Cyprinodontidae	Cyprinodon	inmemoriam				North America
+Cyprinodontidae	Cyprinodon	latifasciatus				North America
+Cyprinodontidae	Cyprinodon	longidorsalis				North America
+Cyprinodontidae	Cyprinodon	macrolepis				North America
+Cyprinodontidae	Cyprinodon	macularius		native	Desert pupfish	North America
+Cyprinodontidae	Cyprinodon	meeki				North America
+Cyprinodontidae	Cyprinodon	nazas				North America
+Cyprinodontidae	Cyprinodon	nevadensis	armagosae			North America
+Cyprinodontidae	Cyprinodon	nevadensis	calidae			North America
+Cyprinodontidae	Cyprinodon	nevadensis	mionectes			North America
+Cyprinodontidae	Cyprinodon	nevadensis	nevadensis			North America
+Cyprinodontidae	Cyprinodon	nevadensis	pectoralis			North America
+Cyprinodontidae	Cyprinodon	nevadensis	shoshone			North America
+Cyprinodontidae	Cyprinodon	nevadensis		endemic	Amargosa pupfish	North America
+Cyprinodontidae	Cyprinodon	pachycephalus				North America
+Cyprinodontidae	Cyprinodon	pecosensis		endemic	Pecos pupfish	North America
+Cyprinodontidae	Cyprinodon	radiosus		endemic	Owens pupfish	North America
+Cyprinodontidae	Cyprinodon	riverendi		native		North America
+Cyprinodontidae	Cyprinodon	rubrofluviatilis		endemic	Red River pupfish	North America
+Cyprinodontidae	Cyprinodon	salinus	milleri			North America
+Cyprinodontidae	Cyprinodon	salinus	salinus			North America
+Cyprinodontidae	Cyprinodon	salinus		endemic	Salt Creek pupfish	North America
+Cyprinodontidae	Cyprinodon	tularosa		endemic	White Sands pupfish	North America
+Cyprinodontidae	Cyprinodon	variegatus	hubbsi			North America
+Cyprinodontidae	Cyprinodon	variegatus		native	Sheepshead minnow	North America
+Cyprinodontidae	Cyprinodon	veronicae				North America
+Cyprinodontidae	Jordanella	floridae		endemic	Flagfish	North America
+Cyprinodontidae	Megupsilon	aporus				North America
+Dasyatidae	Dasyatis	sabina				North America
+Dasyatidae	Hypanus	sabinus		native	Atlantic stingray	North America
+Elassomatidae	Elassoma	alabamae		endemic	Spring pygmy sunfish	North America
+Elassomatidae	Elassoma	boehklei				North America
+Elassomatidae	Elassoma	boehlkei		endemic	Carolina pygmy sunfish	North America
+Elassomatidae	Elassoma	evergladei		endemic	Everglades pygmy sunfish	North America
+Elassomatidae	Elassoma	gilberti		native	Pygmy sunfish	North America
+Elassomatidae	Elassoma	okatie		endemic	Bluebarred pygmy sunfish	North America
+Elassomatidae	Elassoma	okefenokee		endemic	Okefenokee pygmy sunfish	North America
+Elassomatidae	Elassoma	zonatum		endemic	Banded pygmy sunfish	North America
+Eleotridae	Dormitator	latifrons		native	Pacific fat sleeper	North America
+Eleotridae	Dormitator	maculatus		native	Fat sleeper	North America
+Eleotridae	Eleotris	amblyopsis		native	Large-scaled spinycheek sleeper	North America
+Eleotridae	Eleotris	picta		native	Spotted sleeper	North America
+Eleotridae	Eleotris	pisonis		native	Spinycheek sleeper	North America
+Eleotridae	Eleotris	sandwicensis		native	Sandwich Island sleeper	North America
+Eleotridae	Gobiomorus	dormitor		native	Bigmouth sleeper	North America
+Elopidae	Elops	saurus		native	Ladyfish	North America
+Embiotocidae	Cymatogaster	aggregata		native	Shiner perch	North America
+Embiotocidae	Hysterocarpus	traskii	pomo			North America
+Embiotocidae	Hysterocarpus	traskii		endemic	Russian river tule perch	North America
+Esocidae	Esox	americanus	americanus			North America
+Esocidae	Esox	americanus	vermiculatus			North America
+Esocidae	Esox	americanus		native	Redfin pickerel	North America
+Esocidae	Esox	lucius		native	Northern pike	North America
+Esocidae	Esox	masquinongy		native	Muskellunge	North America
+Esocidae	Esox	niger		native	Chain pickerel	North America
+Fundulidae	Fundulus	albolineatus				North America
+Fundulidae	Fundulus	bifax		endemic	Stippled studfish	North America
+Fundulidae	Fundulus	blairae		native	Western starhead topminnow	North America
+Fundulidae	Fundulus	catenatus		endemic	Northern studfish	North America
+Fundulidae	Fundulus	chrysotus		endemic	Golden topminnow	North America
+Fundulidae	Fundulus	cingulatus		endemic	Banded topminnow	North America
+Fundulidae	Fundulus	confluentus		native	Marsh killifish	North America
+Fundulidae	Fundulus	diaphanus	diaphanus			North America
+Fundulidae	Fundulus	diaphanus	menona			North America
+Fundulidae	Fundulus	diaphanus		native	Banded killifish	North America
+Fundulidae	Fundulus	dispar		endemic	Starhead topminnow	North America
+Fundulidae	Fundulus	escambiae		endemic	Russetfin topminnow	North America
+Fundulidae	Fundulus	euryzonus		endemic	Broadstripe topminnow	North America
+Fundulidae	Fundulus	grandis		native	Gulf killifish	North America
+Fundulidae	Fundulus	heteroclitus		native	Mummichog	North America
+Fundulidae	Fundulus	julisia		endemic	Barrens topminnow	North America
+Fundulidae	Fundulus	kansae		native	Northern plains killifish	North America
+Fundulidae	Fundulus	lima				North America
+Fundulidae	Fundulus	lineolatus		endemic	Lined topminnow	North America
+Fundulidae	Fundulus	notatus		native	Blackstripe topminnow	North America
+Fundulidae	Fundulus	nottii		endemic	Bayou topminnow	North America
+Fundulidae	Fundulus	olivaceus		endemic	Blackspotted topminnow	North America
+Fundulidae	Fundulus	rathbuni		endemic	Speckled killifish	North America
+Fundulidae	Fundulus	rubrifrons		native	Redface topminnow	North America
+Fundulidae	Fundulus	saguanus		native		North America
+Fundulidae	Fundulus	sciadicus		endemic	Plains topminnow	North America
+Fundulidae	Fundulus	seminolis		endemic	Seminole killifish	North America
+Fundulidae	Fundulus	stellifer		endemic	Southern studfish	North America
+Fundulidae	Fundulus	waccamensis		endemic	Waccamaw killifish	North America
+Fundulidae	Fundulus	xenicus		native	Diamond killifish	North America
+Fundulidae	Fundulus	zebrinus		native	Plains killifish	North America
+Fundulidae	Leptolucania	ommata		endemic	Pygmy killifish	North America
+Fundulidae	Lucania	goodei		endemic	Bluefin killifish	North America
+Fundulidae	Lucania	interioris				North America
+Fundulidae	Lucania	parva		native	Rainwater killifish	North America
+Gadidae	Lota	lota	maculosa			North America
+Gadidae	Lota	lota				North America
+Gadidae	Microgadus	tomcod		native	Atlantic tomcod	North America
+Gasterosteidae	Apeltes	quadracus		native	Fourspine stickleback	North America
+Gasterosteidae	Culaea	inconstans		native	Brook stickleback	North America
+Gasterosteidae	Gasterosteus	aculeatus	williamsoni			North America
+Gasterosteidae	Gasterosteus	aculeatus		native	Three-spined stickleback	North America
+Gasterosteidae	Pungitius	pungitius		native	Ninespine stickleback	North America
+Gerreidae	Eucinostomus	argenteus		native	Silver mojarra	North America
+Gerreidae	Eugerres	plumieri		native	Striped mojarra	North America
+Gobiesocidae	Gobiesox	fluviatilis				North America
+Gobiesocidae	Gobiesox	juniperoserrai				North America
+Gobiesocidae	Gobiesox	mexicanus				North America
+Gobiidae	Acanthogobius	flavimanus		introduced	Yellowfin goby	North America
+Gobiidae	Awaous	banana		native	River goby	North America
+Gobiidae	Ctenogobius	pseudofasciatus		native	Slashcheek goby	North America
+Gobiidae	Ctenogobius	shufeldti		native	American freshwater goby	North America
+Gobiidae	Eucyclogobius	newberryi				North America
+Gobiidae	Gobionellus	oceanicus		native	Highfin goby	North America
+Gobiidae	Microgobius	gulosus		native	Clown goby	North America
+Gobiidae	Neogobius	melanostomus		introduced	Round goby	North America
+Gobiidae	Proterorhinus	marmoratus		introduced	Tubenose goby	North America
+Gobiidae	Rhinogobius	brunneus		introduced	Amur goby	North America
+Gobiidae	Tridentiger	trigonocephalus		introduced	Chameleon goby	North America
+Goodeidae	Allotoca	diazi				North America
+Goodeidae	Allotoca	dugesii				North America
+Goodeidae	Ameca	splendens				North America
+Goodeidae	Ataeniobius	toweri				North America
+Goodeidae	Characodon	audax				North America
+Goodeidae	Characodon	garmani				North America
+Goodeidae	Characodon	lateralis				North America
+Goodeidae	Crenichthys	baileyi	albivallis			North America
+Goodeidae	Crenichthys	baileyi	baileyi			North America
+Goodeidae	Crenichthys	baileyi	grandis			North America
+Goodeidae	Crenichthys	baileyi	thermophilus			North America
+Goodeidae	Crenichthys	baileyi		endemic	White River springfish	North America
+Goodeidae	Crenichthys	nevadae		endemic	Railroad Valley springfish	North America
+Goodeidae	Empetrichthys	latos	concavus			North America
+Goodeidae	Empetrichthys	latos	latos			North America
+Goodeidae	Empetrichthys	latos	pahrump			North America
+Goodeidae	Empetrichthys	latos		endemic	Pahrump poolfish	North America
+Goodeidae	Empetrichthys	merriami				North America
+Goodeidae	Girardinichthys	viviparus				North America
+Goodeidae	Hubbsina	turneri				North America
+Goodeidae	Skiffia	bilineata				North America
+Goodeidae	Skiffia	francesae				North America
+Goodeidae	Skiffia	lermae				North America
+Goodeidae	Xenophorus	captivus				North America
+Goodeidae	Zoogoneticus	purhepechus				North America
+Goodeidae	Zoogoneticus	quitzeoensis				North America
+Goodeidae	Zoogoneticus	tequila				North America
+Hemiramphidae	Hyporhamphus	meeki		native	American halfbeak	North America
+Heptapteridae	Rhamdia	guatemalensis				North America
+Hiodontidae	Hiodon	alosoides		native	Goldeye	North America
+Hiodontidae	Hiodon	tergisus		native	Mooneye	North America
+Ictaluridae	Ameiurus	brunneus		endemic	Snail bullhead	North America
+Ictaluridae	Ameiurus	catus		native	White catfish	North America
+Ictaluridae	Ameiurus	melas		native	Black bullhead	North America
+Ictaluridae	Ameiurus	natalis		native	Yellow bullhead	North America
+Ictaluridae	Ameiurus	nebulosus		native	Brown bullhead	North America
+Ictaluridae	Ameiurus	platycephalus		endemic	Flat bullhead	North America
+Ictaluridae	Ameiurus	serracanthus		endemic	Spotted bullhead	North America
+Ictaluridae	Ictalurus	australis				North America
+Ictaluridae	Ictalurus	dugesii				North America
+Ictaluridae	Ictalurus	furcatus		native	Blue catfish	North America
+Ictaluridae	Ictalurus	lupus		native	Headwater catfish	North America
+Ictaluridae	Ictalurus	mexicanus				North America
+Ictaluridae	Ictalurus	pricei		native	Yaqui catfish	North America
+Ictaluridae	Ictalurus	punctatus		native	Channel catfish	North America
+Ictaluridae	Noturus	albater		endemic	Ozark madtom	North America
+Ictaluridae	Noturus	baileyi		endemic	Smoky madtom	North America
+Ictaluridae	Noturus	crypticus		native	Chucky madtom	North America
+Ictaluridae	Noturus	elegans		endemic	Elegant madtom	North America
+Ictaluridae	Noturus	eleutherus		endemic	Mountain madtom	North America
+Ictaluridae	Noturus	exilis		endemic	Slender madtom	North America
+Ictaluridae	Noturus	fasciatus		native	Saddled madtom	North America
+Ictaluridae	Noturus	flavater		endemic	Checkered madtom	North America
+Ictaluridae	Noturus	flavipinnis		endemic	Yellowfin madtom	North America
+Ictaluridae	Noturus	flavus		native	Stonecat	North America
+Ictaluridae	Noturus	funebris		endemic	Black madtom	North America
+Ictaluridae	Noturus	furiosus		endemic	Carolina madtom	North America
+Ictaluridae	Noturus	gilberti		endemic	Orangefin madtom	North America
+Ictaluridae	Noturus	gladiator		native	Piebald madtom	North America
+Ictaluridae	Noturus	gyrinus		native	Tadpole madtom	North America
+Ictaluridae	Noturus	hildebrandi		endemic	Least madtom	North America
+Ictaluridae	Noturus	insignis		native	Margined madtom	North America
+Ictaluridae	Noturus	lachneri		endemic	Ouachita madtom	North America
+Ictaluridae	Noturus	leptacanthus		endemic	Speckled madtom	North America
+Ictaluridae	Noturus	maydeni		endemic	Black River madtom	North America
+Ictaluridae	Noturus	miurus		native	Brindled madtom	North America
+Ictaluridae	Noturus	munitus		endemic	Frecklebelly madtom	North America
+Ictaluridae	Noturus	nocturnus		endemic	Freckled madtom	North America
+Ictaluridae	Noturus	phaeus		endemic	Brown madtom	North America
+Ictaluridae	Noturus	placidus		endemic	Neosho madtom	North America
+Ictaluridae	Noturus	stanauli		endemic	Pygmy madtom	North America
+Ictaluridae	Noturus	stigmosus		endemic	Northern madtom	North America
+Ictaluridae	Noturus	taylori		endemic	Caddo madtom	North America
+Ictaluridae	Noturus	trautmani		endemic	Scioto madtom	North America
+Ictaluridae	Prietella	lundbergi				North America
+Ictaluridae	Prietella	phreatophila				North America
+Ictaluridae	Pylodictis	olivaris		native	Flathead catfish	North America
+Ictaluridae	Satan	eurystomus		endemic	Widemouth blindcat	North America
+Ictaluridae	Trogloglanis	pattersoni		endemic	Toothless blindcat	North America
+Lepisosteidae	Atractosteus	spatula		native	Alligator gar	North America
+Lepisosteidae	Lepisosteus	oculatus		native	Spotted gar	North America
+Lepisosteidae	Lepisosteus	osseus		native	Longnose gar	North America
+Lepisosteidae	Lepisosteus	platostomus		native	Shortnose gar	North America
+Lepisosteidae	Lepisosteus	platyrhincus		native	Florida gar	North America
+Loricariidae	Hypostomus	plecostomus		introduced	Suckermouth catfish	North America
+Loricariidae	Pterygoplichthys	anisitsi		introduced	Snow pleco	North America
+Loricariidae	Pterygoplichthys	disjunctivus		introduced	Vermiculated sailfin catfish	North America
+Loricariidae	Pterygoplichthys	multiradiatus		introduced	Orinoco sailfin catfish	North America
+Lotidae	Lota	lota		native	Burbot	North America
+Megalopidae	Megalops	atlanticus		native	Tarpon	North America
+Moronidae	Morone	americana		native	White perch	North America
+Moronidae	Morone	chrysops		native	White bass	North America
+Moronidae	Morone	mississippiensis		endemic	Yellow bass	North America
+Moronidae	Morone	saxatilis		native	Striped bass	North America
+Mugilidae	Agonostomus	monticola		native	Mountain mullet	North America
+Mugilidae	Mugil	cephalus		native	Flathead grey mullet	North America
+Mugilidae	Mugil	curema		native	White mullet	North America
+Mugilidae	Mugil	liza		native	Lebranche mullet	North America
+Notopteridae	Chitala	ornata				North America
+Osmeridae	Hypomesus	nipponensis		introduced	Japanese smelt	North America
+Osmeridae	Hypomesus	transpacificus		native	Delta smelt	North America
+Osmeridae	Osmerus	dentex		native	Pacific rainbow smelt	North America
+Osmeridae	Osmerus	mordax	mordax			North America
+Osmeridae	Osmerus	mordax		native	Rainbow smelt	North America
+Osmeridae	Osmerus	spectrum		native	Pigmy smelt	North America
+Osmeridae	Spirinchus	thaleichthys		native	Longfin smelt	North America
+Osmeridae	Thaleichthys	pacificus		native	Eulachon	North America
+Osphronemidae	Trichogaster	fasciata		introduced	Banded gourami	North America
+Osphronemidae	Trichogaster	lalius		introduced	Dwarf gourami	North America
+Osphronemidae	Trichopsis	vittata		introduced	Croaking gourami	North America
+Percidae	Ammocrypta	beanii		endemic	Naked sand darter	North America
+Percidae	Ammocrypta	bifascia		endemic	Florida sand darter	North America
+Percidae	Ammocrypta	clara		endemic	Western sand darter	North America
+Percidae	Ammocrypta	meridiana		endemic	Southern sand darter	North America
+Percidae	Ammocrypta	pellucida		native	Eastern sand darter	North America
+Percidae	Ammocrypta	vivax		endemic	Scaly sand darter	North America
+Percidae	Ammoctypta	beani				North America
+Percidae	Crystallaria	asprella		endemic	Crystal darter	North America
+Percidae	Crystallaria	cincotta		native	Diamond darter	North America
+Percidae	Etheostoma	acuticeps		endemic	Sharphead darter	North America
+Percidae	Etheostoma	akatulo		native	Bluemask darter	North America
+Percidae	Etheostoma	aquali				North America
+Percidae	Etheostoma	artesiae		native	Redspot darter	North America
+Percidae	Etheostoma	asprigene		endemic	Mud darter	North America
+Percidae	Etheostoma	atripinne		endemic	Cumberland snubnose darter	North America
+Percidae	Etheostoma	australe				North America
+Percidae	Etheostoma	autumnale		native	Autumn darter	North America
+Percidae	Etheostoma	baileyi		endemic	Emerald darter	North America
+Percidae	Etheostoma	barbouri		endemic	Teardrop darter	North America
+Percidae	Etheostoma	barrenense		endemic	Splendid darter	North America
+Percidae	Etheostoma	barrenensis				North America
+Percidae	Etheostoma	basilare		native	Corrugated darter	North America
+Percidae	Etheostoma	bellator		native	Warrior darter	North America
+Percidae	Etheostoma	bellum		endemic	Orangefin darter	North America
+Percidae	Etheostoma	bison		native	Buffalo darter	North America
+Percidae	Etheostoma	blennioides	newmanii			North America
+Percidae	Etheostoma	blennioides	pholidotum			North America
+Percidae	Etheostoma	blennioides		native	Greenside darter	North America
+Percidae	Etheostoma	blennius		endemic	Blenny darter	North America
+Percidae	Etheostoma	boschungi		endemic	Slackwater darter	North America
+Percidae	Etheostoma	brevirostrum		native	Holiday darter	North America
+Percidae	Etheostoma	brevispinum		native	Carolina fantail darter	North America
+Percidae	Etheostoma	burri		endemic	Brook Darter	North America
+Percidae	Etheostoma	caeruleum		native	Rainbow darter	North America
+Percidae	Etheostoma	camurum		endemic	Bluebreast darter	North America
+Percidae	Etheostoma	cervus		native	Chickasaw darter	North America
+Percidae	Etheostoma	chermocki		native	Vermilion darter	North America
+Percidae	Etheostoma	chienense		native	Relict darter	North America
+Percidae	Etheostoma	chlorobranchium		endemic	Greenfin darter	North America
+Percidae	Etheostoma	chlorosoma				North America
+Percidae	Etheostoma	chlorosomum		endemic	Bluntnose darter	North America
+Percidae	Etheostoma	chuckwachatte		native	Lipstick darter	North America
+Percidae	Etheostoma	cinereum		endemic	Ashy darter	North America
+Percidae	Etheostoma	clinton		native	Beaded darter	North America
+Percidae	Etheostoma	collettei		endemic	Creole darter	North America
+Percidae	Etheostoma	collis		endemic	Carolina darter	North America
+Percidae	Etheostoma	colorosum		native	Coastal darter	North America
+Percidae	Etheostoma	coosae		endemic	Coosa darter	North America
+Percidae	Etheostoma	corona		native	Crown darter	North America
+Percidae	Etheostoma	cragini		endemic	Arkansas darter	North America
+Percidae	Etheostoma	crossopterum		endemic	Fringed darter	North America
+Percidae	Etheostoma	cyanoprosopum		native	Blueface darter	North America
+Percidae	Etheostoma	davisoni		endemic	Choctawhatchee darter	North America
+Percidae	Etheostoma	denoncourti		native	Golden darter	North America
+Percidae	Etheostoma	derivativum		native	Stone darter	North America
+Percidae	Etheostoma	ditrema		endemic	Coldwater darter	North America
+Percidae	Etheostoma	douglasi		native	Tuskaloossa darter	North America
+Percidae	Etheostoma	duryi		endemic	Black darter	North America
+Percidae	Etheostoma	edwini		endemic	Brown darter	North America
+Percidae	Etheostoma	erythrozonum		native	Meramec Saddled Darter	North America
+Percidae	Etheostoma	etnieri		endemic	Cherry darter	North America
+Percidae	Etheostoma	etowahae		native	Etowah darter	North America
+Percidae	Etheostoma	euzonum		endemic	Arkansas saddled darter	North America
+Percidae	Etheostoma	exile		native	Iowa darter	North America
+Percidae	Etheostoma	flabellare		native	Fantail darter	North America
+Percidae	Etheostoma	flavum		endemic	Saffron darter	North America
+Percidae	Etheostoma	fonticola		endemic	Fountain darter	North America
+Percidae	Etheostoma	forbesi		endemic	Barrens darter	North America
+Percidae	Etheostoma	fragi		native	Strawberry darter	North America
+Percidae	Etheostoma	fricksium		endemic	Savannah darter	North America
+Percidae	Etheostoma	fusiforme	barratti			North America
+Percidae	Etheostoma	fusiforme	fusiforme			North America
+Percidae	Etheostoma	fusiforme		endemic	Swamp darter	North America
+Percidae	Etheostoma	gore		native	Cumberland darter	North America
+Percidae	Etheostoma	gracile		endemic	Slough darter	North America
+Percidae	Etheostoma	grahami		native	Rio Grande darter	North America
+Percidae	Etheostoma	gutselli		native	Tuckasegee darter	North America
+Percidae	Etheostoma	histrio		endemic	Harlequin darter	North America
+Percidae	Etheostoma	hopkinsi	binotatum			North America
+Percidae	Etheostoma	hopkinsi		endemic	Christmas darter	North America
+Percidae	Etheostoma	inscriptum		endemic	Turquoise darter	North America
+Percidae	Etheostoma	jessiae		endemic	Blueside darter	North America
+Percidae	Etheostoma	jimmycarter		endemic	Bluegrass darter	North America
+Percidae	Etheostoma	jordani		endemic	Greenbreast darter	North America
+Percidae	Etheostoma	juliae		endemic	Yoke darter	North America
+Percidae	Etheostoma	kanawhae		endemic	Kanawha darter	North America
+Percidae	Etheostoma	kantuckeense		endemic	Highland Rim Darter	North America
+Percidae	Etheostoma	kennicotti		endemic	Stripetail darter	North America
+Percidae	Etheostoma	lachneri		native	Tombigbee darter	North America
+Percidae	Etheostoma	lawrencei		native	Headwater darter	North America
+Percidae	Etheostoma	lemniscatum		native	Tuxedo Darter	North America
+Percidae	Etheostoma	lepidum		endemic	Greenthroat darter	North America
+Percidae	Etheostoma	longimanum		endemic	Longfin darter	North America
+Percidae	Etheostoma	lugoi				North America
+Percidae	Etheostoma	luteovinctum		endemic	Redband darter	North America
+Percidae	Etheostoma	lynceum		endemic	Brighteye darter	North America
+Percidae	Etheostoma	maculatum		endemic	Spotted darter	North America
+Percidae	Etheostoma	mariae		endemic	Pinewoods darter	North America
+Percidae	Etheostoma	marmorpinnum		native	Marbled Darter	North America
+Percidae	Etheostoma	maydeni		native	Redlips Darter	North America
+Percidae	Etheostoma	micropepidum				North America
+Percidae	Etheostoma	microperca		native	Least darter	North America
+Percidae	Etheostoma	mihileze		native	sunburst darter	North America
+Percidae	Etheostoma	moorei		endemic	Yellowcheek darter	North America
+Percidae	Etheostoma	nebra		native	Buck Darter	North America
+Percidae	Etheostoma	neopterum		endemic	Lollipop darter	North America
+Percidae	Etheostoma	nianguae		endemic	Niangua darter	North America
+Percidae	Etheostoma	nigripinne		endemic	Blackfin darter	North America
+Percidae	Etheostoma	nigrum		native	Johnny darter	North America
+Percidae	Etheostoma	nuchale		endemic	Watercress darter	North America
+Percidae	Etheostoma	obama		endemic	Spangled darter	North America
+Percidae	Etheostoma	obeyense		endemic	Barcheek darter	North America
+Percidae	Etheostoma	occidentale		native	West Rim darter	North America
+Percidae	Etheostoma	okaloosae		endemic	Okaloosa darter	North America
+Percidae	Etheostoma	olivaceum		endemic	Sooty darter	North America
+Percidae	Etheostoma	olmstedi	maculaticeps			North America
+Percidae	Etheostoma	olmstedi		native	Tessellated darter	North America
+Percidae	Etheostoma	oophylax		native	Guardian darter	North America
+Percidae	Etheostoma	orientale		native	East Rim darter	North America
+Percidae	Etheostoma	osburni		endemic	Candy darter	North America
+Percidae	Etheostoma	pallididorsum		endemic	Paleback darter	North America
+Percidae	Etheostoma	pallidorsum				North America
+Percidae	Etheostoma	parvipinne		endemic	Goldstripe darter	North America
+Percidae	Etheostoma	percnurum		native	Duskytail darter	North America
+Percidae	Etheostoma	perlongum		endemic	Waccamaw darter	North America
+Percidae	Etheostoma	phytophilum		native	Rush darter	North America
+Percidae	Etheostoma	planasaxatile		native	Duck darter	North America
+Percidae	Etheostoma	podostemone		endemic	Riverweed darter	North America
+Percidae	Etheostoma	potsii				North America
+Percidae	Etheostoma	proeliare		endemic	Cypress darter	North America
+Percidae	Etheostoma	pseudovulatum		native	Egg-mimic darter	North America
+Percidae	Etheostoma	punctulatum		endemic	Stippled darter	North America
+Percidae	Etheostoma	pyrrhogaster		endemic	Firebelly darter	North America
+Percidae	Etheostoma	radiosum		endemic	Orangebelly darter	North America
+Percidae	Etheostoma	rafinesquei		endemic	Kentucky darter	North America
+Percidae	Etheostoma	ramseyi		native	Alabama darter	North America
+Percidae	Etheostoma	raneyi		native	Yazoo darter	North America
+Percidae	Etheostoma	rubrum		endemic	Bayou darter	North America
+Percidae	Etheostoma	rufilineatum		endemic	Redline darter	North America
+Percidae	Etheostoma	rupestre		endemic	Rock darter	North America
+Percidae	Etheostoma	sagitta		endemic	Arrow darter	North America
+Percidae	Etheostoma	saludae		endemic	Saluda darter	North America
+Percidae	Etheostoma	scotti		native	Cherokee darter	North America
+Percidae	Etheostoma	sellare		endemic	Maryland darter	North America
+Percidae	Etheostoma	sequatchiense		native	Sequatchie darter	North America
+Percidae	Etheostoma	serrifer		endemic	Sawcheek darter	North America
+Percidae	Etheostoma	simoterum		endemic	Snubnose darter	North America
+Percidae	Etheostoma	sitikuense		native	Citico Darter	North America
+Percidae	Etheostoma	sitkuense				North America
+Percidae	Etheostoma	smithi		endemic	Slabrock darter	North America
+Percidae	Etheostoma	spectabile	pulchellum			North America
+Percidae	Etheostoma	spectabile	spectabile			North America
+Percidae	Etheostoma	spectabile		endemic	Orangethroat darter	North America
+Percidae	Etheostoma	spilotum		native	Cumberland plateau darter	North America
+Percidae	Etheostoma	squamiceps		endemic	Spottail darter	North America
+Percidae	Etheostoma	stigmaeum		endemic	Speckled darter	North America
+Percidae	Etheostoma	striatulum		endemic	Striated darter	North America
+Percidae	Etheostoma	susanae		native	Cumberland darter	North America
+Percidae	Etheostoma	swaini		endemic	Gulf darter	North America
+Percidae	Etheostoma	swannanoa		endemic	Swannanoa darter	North America
+Percidae	Etheostoma	tallapoosae		native	Tallapoosa darter	North America
+Percidae	Etheostoma	tecumsehi		endemic	Shawnee darter	North America
+Percidae	Etheostoma	teddyroosevelt		native	Highland darter	North America
+Percidae	Etheostoma	tennesseense		native	Tennessee darter	North America
+Percidae	Etheostoma	tetrazonum		endemic	Missouri saddled darter	North America
+Percidae	Etheostoma	thalassinum		endemic	Seagreen darter	North America
+Percidae	Etheostoma	thompsoni		native	Gumbo darter	North America
+Percidae	Etheostoma	tippecanoe		endemic	Tippecanoe darter	North America
+Percidae	Etheostoma	trisella		endemic	Trispot darter	North America
+Percidae	Etheostoma	tuscumbia		endemic	Tuscumbia darter	North America
+Percidae	Etheostoma	uniporum		native	Current darter	North America
+Percidae	Etheostoma	variatum		endemic	Variegate darter	North America
+Percidae	Etheostoma	virgatum		endemic	Striped darter	North America
+Percidae	Etheostoma	vitreum		endemic	Glassy darter	North America
+Percidae	Etheostoma	vulneratum		endemic	Wounded darter	North America
+Percidae	Etheostoma	wapiti		native	Boulder darter	North America
+Percidae	Etheostoma	whipplei		endemic	Redfin darter	North America
+Percidae	Etheostoma	zonale		endemic	Banded darter	North America
+Percidae	Etheostoma	zonifer		endemic	Backwater darter	North America
+Percidae	Etheostoma	zonistium		endemic	Bandfin darter	North America
+Percidae	Etheostoms	rupestre				North America
+Percidae	Gymnocephalus	cernua		introduced	Ruffe	North America
+Percidae	Nothonotus	aquali		endemic	Coppercheek darter	North America
+Percidae	Nothonotus	microlepidus		endemic	Smallscale darter	North America
+Percidae	Nothonotus	sanguifluus		endemic	Bloodfin darter	North America
+Percidae	Nothonotus	starnesi		endemic	Caney fork darter	North America
+Percidae	Perca	flavescens		native	American yellow perch	North America
+Percidae	Percina	antesella		endemic	Amber darter	North America
+Percidae	Percina	apina		native	Tennessee logperch	North America
+Percidae	Percina	apristis		native	Guadalupe darter	North America
+Percidae	Percina	aurantiaca		endemic	Tangerine darter	North America
+Percidae	Percina	aurolineata		endemic	Goldline darter	North America
+Percidae	Percina	aurora		native	Pearl darter	North America
+Percidae	Percina	austroperca		native	Southern logperch	North America
+Percidae	Percina	bimaculata		native	Chesapeake logperch	North America
+Percidae	Percina	brevicauda		native	Coal darter	North America
+Percidae	Percina	brucethompsoni		native	Ouachita darter	North America
+Percidae	Percina	burtoni		endemic	Blotchside darter	North America
+Percidae	Percina	caprodes	caprodes			North America
+Percidae	Percina	caprodes	semifasciata			North America
+Percidae	Percina	caprodes		native	Logperch	North America
+Percidae	Percina	carbonaria		endemic	Texas logperch	North America
+Percidae	Percina	copelandi		native	Channel darter	North America
+Percidae	Percina	crassa		endemic	Piedmont darter	North America
+Percidae	Percina	crypta		endemic	Halloween Darter	North America
+Percidae	Percina	cymatotaenia		endemic	Bluestripe darter	North America
+Percidae	Percina	evides		endemic	Gilt darter	North America
+Percidae	Percina	fulvitaenia		native	Ozark logperch	North America
+Percidae	Percina	gymnocephala		endemic	Appalachia darter	North America
+Percidae	Percina	jenkinsi		endemic	Conasauga logperch	North America
+Percidae	Percina	kathae		native	Mobile logperch	North America
+Percidae	Percina	kusha		native	Bridled darter	North America
+Percidae	Percina	lenticula		endemic	Freckled darter	North America
+Percidae	Percina	macrocephala		endemic	Longhead darter	North America
+Percidae	Percina	macrolepida		native	Bigscale logperch	North America
+Percidae	Percina	maculata		native	Blackside darter	North America
+Percidae	Percina	nasuta		endemic	Longnose darter	North America
+Percidae	Percina	nevisense		native	Chainback darter	North America
+Percidae	Percina	nigrofasciata		endemic	Blackbanded darter	North America
+Percidae	Percina	notogramma		endemic	Stripeback darter	North America
+Percidae	Percina	oxyrhynchus		endemic	Sharpnose darter	North America
+Percidae	Percina	palmaris		endemic	Bronze darter	North America
+Percidae	Percina	pantherina		endemic	Leopard darter	North America
+Percidae	Percina	peltata		endemic	Shield darter	North America
+Percidae	Percina	phoxocephala		endemic	Slenderhead darter	North America
+Percidae	Percina	rex		endemic	Roanoke logperch	North America
+Percidae	Percina	roanoka		endemic	Roanoke darter	North America
+Percidae	Percina	sciera	sciera			North America
+Percidae	Percina	sciera		endemic	Dusky darter	North America
+Percidae	Percina	shumardi		native	River darter	North America
+Percidae	Percina	sipsi		native	Bankhead darter	North America
+Percidae	Percina	smithvanizi		native	Muscadine Darter	North America
+Percidae	Percina	squamata		endemic	Olive darter	North America
+Percidae	Percina	sticogaster				North America
+Percidae	Percina	stictogaster		native	Frecklebelly darter	North America
+Percidae	Percina	suttkusi		native	Gulf logperch	North America
+Percidae	Percina	tanasi		endemic	Snail darter	North America
+Percidae	Percina	uranidea		endemic	Stargazing darter	North America
+Percidae	Percina	vigil		endemic	Saddleback darter	North America
+Percidae	Percina	williamsi		endemic	Sickle darter	North America
+Percidae	Sander	canadensis		native	Sauger	North America
+Percidae	Sander	lucioperca		introduced	Pike-perch	North America
+Percidae	Sander	vitreus	glaucus			North America
+Percidae	Sander	vitreus		native	Walleye	North America
+Percopsidae	Percopsis	omiscomaycus		native	Trout-perch	North America
+Percopsidae	Percopsis	transmontana		endemic	Sand roller	North America
+Petromyzontidae	Entosphenus	folletti		native	Northern California brook lamprey	North America
+Petromyzontidae	Entosphenus	lethophagus		native	Pit-Klamath brook lamprey	North America
+Petromyzontidae	Entosphenus	lethophagus				North America
+Petromyzontidae	Entosphenus	macrostomus				North America
+Petromyzontidae	Entosphenus	minimus		endemic	Miller Lake lamprey	North America
+Petromyzontidae	Entosphenus	minimus				North America
+Petromyzontidae	Entosphenus	similis		native	Klamath river lamprey	North America
+Petromyzontidae	Entosphenus	tridentatus		native	Pacific lamprey	North America
+Petromyzontidae	Entosphenus	tridentatus				North America
+Petromyzontidae	Ichthyomyzon	bdellium		native	Ohio lamprey	North America
+Petromyzontidae	Ichthyomyzon	castaneus		native	Chestnut lamprey	North America
+Petromyzontidae	Ichthyomyzon	fossor		native	Northern brook lamprey	North America
+Petromyzontidae	Ichthyomyzon	gagei		native	Southern brook lamprey	North America
+Petromyzontidae	Ichthyomyzon	greeleyi		native	Mountain brook lamprey	North America
+Petromyzontidae	Ichthyomyzon	unicuspis		native	Silver lamprey	North America
+Petromyzontidae	Lampetra	aepyptera		native	Least brook lamprey	North America
+Petromyzontidae	Lampetra	appendix				North America
+Petromyzontidae	Lampetra	ayresii		native	Western river lamprey	North America
+Petromyzontidae	Lampetra	geminis				North America
+Petromyzontidae	Lampetra	hubbsi		native	Kern brook lamprey	North America
+Petromyzontidae	Lampetra	macrostoma				North America
+Petromyzontidae	Lampetra	minima				North America
+Petromyzontidae	Lampetra	pacifica		endemic	Pacific brook lamprey	North America
+Petromyzontidae	Lampetra	richardsoni		native	Western brook lamprey	North America
+Petromyzontidae	Lampetra	similis				North America
+Petromyzontidae	Lampetra	spadicea				North America
+Petromyzontidae	Lampetra	tridentata				North America
+Petromyzontidae	Lethenteron	alaskense				North America
+Petromyzontidae	Lethenteron	appendix		native	American brook lamprey	North America
+Petromyzontidae	Lethenteron	appendix				North America
+Petromyzontidae	Lethenteron	camtschaticum				North America
+Petromyzontidae	Petromyzon	marinus		native	Sea lamprey	North America
+Petromyzontidae	Tetrapleurodon	geminis				North America
+Petromyzontidae	Tetrapleurodon	spadiceus				North America
+Pleuronectidae	Liopsetta	glacialis		native	Arctic flounder	North America
+Poeciliidae	Belonesox	belizanus		introduced	Top minnow	North America
+Poeciliidae	Gambusia	affinis		native	Mosquitofish	North America
+Poeciliidae	Gambusia	alvarezi				North America
+Poeciliidae	Gambusia	amistadensis		endemic	Amistad gambusia	North America
+Poeciliidae	Gambusia	clarkhubbsi		native	San Felipe gambusia	North America
+Poeciliidae	Gambusia	gaigei		endemic	Big Bend gambusia	North America
+Poeciliidae	Gambusia	geiseri		endemic	Largespring gambusia	North America
+Poeciliidae	Gambusia	georgei		endemic	San Marcos gambusia	North America
+Poeciliidae	Gambusia	heterochir		endemic	Clear Creek gambusia	North America
+Poeciliidae	Gambusia	holbrooki		native	Eastern mosquitofish	North America
+Poeciliidae	Gambusia	hurtadoi				North America
+Poeciliidae	Gambusia	longispinis				North America
+Poeciliidae	Gambusia	nobilis		endemic	Pecos gambusia	North America
+Poeciliidae	Gambusia	rhizophorae		native	Mangrove gambusia	North America
+Poeciliidae	Gambusia	senilis		native	Blotched gambusia	North America
+Poeciliidae	Gambusia	speciosa		native	Tex-Mex gambusia	North America
+Poeciliidae	Heterandria	formosa		endemic	Least killifish	North America
+Poeciliidae	Poecilia	butleri				North America
+Poeciliidae	Poecilia	formosa		native	Amazon molly	North America
+Poeciliidae	Poecilia	latipinna		native	Sailfin molly	North America
+Poeciliidae	Poecilia	latipunctata		introduced	Broadspotted molly	North America
+Poeciliidae	Poecilia	mexicana		introduced	Shortfin molly	North America
+Poeciliidae	Poecilia	reticulata		introduced	Guppy	North America
+Poeciliidae	Poeciliopsis	gracilis		introduced	Porthole livebearer	North America
+Poeciliidae	Poeciliopsis	latidens				North America
+Poeciliidae	Poeciliopsis	occidentalis	occidentalis			North America
+Poeciliidae	Poeciliopsis	occidentalis	sonoriensis			North America
+Poeciliidae	Poeciliopsis	occidentalis		native	Gila topminnow	North America
+Poeciliidae	Priapella	bonita				North America
+Poeciliidae	Priapella	intermedia				North America
+Poeciliidae	Xiphophorus	couchianus				North America
+Poeciliidae	Xiphophorus	gordoni				North America
+Poeciliidae	Xiphophorus	hellerii		introduced	Green swordtail	North America
+Poeciliidae	Xiphophorus	maculatus		introduced	Southern platyfish	North America
+Poeciliidae	Xiphophorus	meyeri				North America
+Poeciliidae	Xiphophorus	milleri				North America
+Poeciliidae	Xiphophorus	variatus		introduced	Variable platyfish	North America
+Polyodontidae	Polyodon	spathula		native	Mississippi paddlefish	North America
+Pristidae	Pristis	microdon		native	Largetooth sawfish	North America
+Rivulidae	Anablepsoides	hartii		introduced	Hart's rivulus	North America
+Rivulidae	Kryptolebias	marmoratus		native	Mangrove rivulus	North America
+Rivulidae	Millerichthys	robustus				North America
+Salmonidae	Aphredoderus	sayanus	gibbosus			North America
+Salmonidae	Aphredoderus	sayanus				North America
+Salmonidae	Coregonis	kiyi	kiyi			North America
+Salmonidae	Coregonus	alpenae		native	Longjaw cisco	North America
+Salmonidae	Coregonus	artedi		native	Cisco	North America
+Salmonidae	Coregonus	clupeaformis		native	Lake whitefish	North America
+Salmonidae	Coregonus	hoyi		native	Bloater	North America
+Salmonidae	Coregonus	hunstmani				North America
+Salmonidae	Coregonus	johannae				North America
+Salmonidae	Coregonus	kiyi	orientalis			North America
+Salmonidae	Coregonus	kiyi		native	Kiyi	North America
+Salmonidae	Coregonus	nigripinnis	nigripinnis			North America
+Salmonidae	Coregonus	nigripinnis	regalis			North America
+Salmonidae	Coregonus	nigripinnis		native	Blackfin cisco	North America
+Salmonidae	Coregonus	nipigon		native	Nipigon Cisco	North America
+Salmonidae	Coregonus	reighardi		native	Shortnose cisco	North America
+Salmonidae	Coregonus	zenithicus		native	Shortjaw cisco	North America
+Salmonidae	Coregonus	zenthicus	bartletti			North America
+Salmonidae	Coregonus	zenthicus	zenthicus			North America
+Salmonidae	Coregonus	zenthicus				North America
+Salmonidae	Oncohynchus	gilae	apache			North America
+Salmonidae	Oncohynchus	gilae				North America
+Salmonidae	Oncorhynchus	aguabonita		native	Golden trout	North America
+Salmonidae	Oncorhynchus	apache		native	Apache trout	North America
+Salmonidae	Oncorhynchus	chrysogaster				North America
+Salmonidae	Oncorhynchus	clarkii	alvordensis			North America
+Salmonidae	Oncorhynchus	clarkii	behnkei			North America
+Salmonidae	Oncorhynchus	clarkii	bouvieri			North America
+Salmonidae	Oncorhynchus	clarkii	clarkii			North America
+Salmonidae	Oncorhynchus	clarkii	henshawi			North America
+Salmonidae	Oncorhynchus	clarkii	humboldtensis			North America
+Salmonidae	Oncorhynchus	clarkii	lewisi			North America
+Salmonidae	Oncorhynchus	clarkii	macdonaldi			North America
+Salmonidae	Oncorhynchus	clarkii	pleuriticus			North America
+Salmonidae	Oncorhynchus	clarkii	seleniris			North America
+Salmonidae	Oncorhynchus	clarkii	stomias			North America
+Salmonidae	Oncorhynchus	clarkii	utah			North America
+Salmonidae	Oncorhynchus	clarkii	virginalis			North America
+Salmonidae	Oncorhynchus	clarkii		native	Cutthroat trout	North America
+Salmonidae	Oncorhynchus	gilae	gilae			North America
+Salmonidae	Oncorhynchus	gilae		native	Gila trout	North America
+Salmonidae	Oncorhynchus	gorbuscha		native	Pink salmon	North America
+Salmonidae	Oncorhynchus	keta		native	Chum salmon	North America
+Salmonidae	Oncorhynchus	kisutch		native	Coho salmon	North America
+Salmonidae	Oncorhynchus	mykiss	aquabonita			North America
+Salmonidae	Oncorhynchus	mykiss	aquilarum			North America
+Salmonidae	Oncorhynchus	mykiss	gairdneri			North America
+Salmonidae	Oncorhynchus	mykiss	irideus			North America
+Salmonidae	Oncorhynchus	mykiss	nelsoni			North America
+Salmonidae	Oncorhynchus	mykiss	stonei			North America
+Salmonidae	Oncorhynchus	mykiss	whitei			North America
+Salmonidae	Oncorhynchus	mykiss		native	Rainbow trout	North America
+Salmonidae	Oncorhynchus	nerka		native	Sockeye salmon	North America
+Salmonidae	Oncorhynchus	tshawytscha		native	Chinook salmon	North America
+Salmonidae	Oncorhynchys	mykiss	gilberti			North America
+Salmonidae	Percopsis	omiscomaycus				North America
+Salmonidae	Percopsis	transmontanus				North America
+Salmonidae	Prosopium	abyssicola		endemic	Bear Lake whitefish	North America
+Salmonidae	Prosopium	coulteri				North America
+Salmonidae	Prosopium	coulterii		native	Pygmy whitefish	North America
+Salmonidae	Prosopium	cylindraceum		native	Round whitefish	North America
+Salmonidae	Prosopium	gemmifer		endemic	Bonneville cisco	North America
+Salmonidae	Prosopium	spilonotus		endemic	Bonneville whitefish	North America
+Salmonidae	Prosopium	williamsoni		native	Mountain whitefish	North America
+Salmonidae	Salmo	salar		native	Atlantic salmon	North America
+Salmonidae	Salmo	trutta		introduced	Sea trout	North America
+Salmonidae	Salvelinus	agassizii		native	Silver trout	North America
+Salmonidae	Salvelinus	alpinus	oquassa			North America
+Salmonidae	Salvelinus	alpinus		native	Arctic char	North America
+Salmonidae	Salvelinus	confluentus		native	Bull trout	North America
+Salmonidae	Salvelinus	fontinalis	agassizii			North America
+Salmonidae	Salvelinus	fontinalis	fontinalis			North America
+Salmonidae	Salvelinus	fontinalis	timagamiensis			North America
+Salmonidae	Salvelinus	fontinalis		native	Brook trout	North America
+Salmonidae	Salvelinus	malma	lordii			North America
+Salmonidae	Salvelinus	malma		native	Dolly varden	North America
+Salmonidae	Salvelinus	namaycush	namaycush			North America
+Salmonidae	Salvelinus	namaycush		native	Lake trout	North America
+Salmonidae	Thymallus	arcticus		native	Arctic grayling	North America
+Sciaenidae	Aplodinotus	grunniens		native	Freshwater drum	North America
+Sciaenidae	Bairdiella	chrysoura		native	Silver perch	North America
+Sparidae	Lagodon	rhomboides		native	Pinfish	North America
+Synbranchidae	Monopterus	albus		introduced	Asian swamp eel	North America
+Syngnathidae	Microphis	brachyurus	lineatus			North America
+Syngnathidae	Microphis	brachyurus				North America
+Syngnathidae	Microphis	lineatus		native	Opossum pipefish	North America
+Syngnathidae	Syngnathus	fuscus		native	Northern pipefish	North America
+Syngnathidae	Syngnathus	scovelli		native	Gulf pipefish	North America
+Umbridae	Novumbra	hubbsi		native	Olympic mudminnow	North America
+Umbridae	Umbra	limi		native	Central mudminnow	North America
+Umbridae	Umbra	pygmaea		native	Eastern mudminnow	North America
+ACIPENSERIDAE	Acipenser	fulvescens		N	lake sturgeon	Great Lakes Basin
+ACIPENSERIDAE	Scaphirhynchus	platorynchus		NN	shovelnose sturgeon	Great Lakes Basin
+AMIIDAE	Amia	calva		N	bowfin	Great Lakes Basin
+ANABANTIDAE	Anabas	testudineus		SOC	climbing perch	Great Lakes Basin
+ANGUILLIDAE	Anguilla	rostrata		N	American eel	Great Lakes Basin
+APHREDODERIDAE	Aphredoderus	sayanus		N	pirate perch	Great Lakes Basin
+ATHERINIDAE	Atherina	boyeri		??Watchlist	big-scale sand smelt	Great Lakes Basin
+ATHERINOPSIDAE	Labidesthes	sicculus		N	brook silverside	Great Lakes Basin
+ATHERINOPSIDAE	Odontesthes	bonariensis		SOC	Argentinian silverside	Great Lakes Basin
+CALLICHTHYIDAE	Hoplosternum	littorale		SOC/Watchlist	brown hoplo	Great Lakes Basin
+CATOSTOMIDAE	Carpiodes	carpio		N	river carpsucker	Great Lakes Basin
+CATOSTOMIDAE	Carpiodes	cyprinus		N	quillback	Great Lakes Basin
+CATOSTOMIDAE	Carpiodes	velifer		NN	highfin carpsucker	Great Lakes Basin
+CATOSTOMIDAE	Catostomus	catostomus		N	longnose sucker	Great Lakes Basin
+CATOSTOMIDAE	Catostomus	commersonii		N	white sucker	Great Lakes Basin
+CATOSTOMIDAE	Cycleptus	elongatus		NN	blue sucker	Great Lakes Basin
+CATOSTOMIDAE	Erimyzon	oblongus		N	creek chubsucker	Great Lakes Basin
+CATOSTOMIDAE	Erimyzon	sucetta		N	lake chubsucker	Great Lakes Basin
+CATOSTOMIDAE	Hypentelium	nigricans		N	northern hog sucker	Great Lakes Basin
+CATOSTOMIDAE	Ictiobus	bubalus		N	smallmouth buffalo	Great Lakes Basin
+CATOSTOMIDAE	Ictiobus	cyprinellus		I	bigmouth buffalo	Great Lakes Basin
+CATOSTOMIDAE	Ictiobus	niger		R/I	black buffalo	Great Lakes Basin
+CATOSTOMIDAE	Minytrema	melanops		N	spotted sucker	Great Lakes Basin
+CATOSTOMIDAE	Moxostoma	anisurum		N	silver redhorse	Great Lakes Basin
+CATOSTOMIDAE	Moxostoma	carinatum		N	river redhorse	Great Lakes Basin
+CATOSTOMIDAE	Moxostoma	duquesnii		N	black redhorse	Great Lakes Basin
+CATOSTOMIDAE	Moxostoma	erythrurum		N	golden redhorse	Great Lakes Basin
+CATOSTOMIDAE	Moxostoma	macrolepidotum		N	shorthead sucker	Great Lakes Basin
+CATOSTOMIDAE	Moxostoma	valenciennesi		N	greater redhorse	Great Lakes Basin
+CENTRARCHIDAE	Ambloplites	rupestris		N	rock bass	Great Lakes Basin
+CENTRARCHIDAE	Enneacanthus	gloriosus		Extinct from Ontario?	bluespotted sunfish	Great Lakes Basin
+CENTRARCHIDAE	Enneacanthus	obesus		NN	banded sunfish	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	auritus		NN	redbreast sunfish	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	cyanellus		N	green sunfish	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	gibbosus		N	pumpkinseed	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	gulosus		N	warmouth	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	humilis		N	orangespotted sunfish	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	macrochirus		N	bluegill	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	megalotis		N	longear sunfish	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	microlophus		SOC/Watchlist	redear sunfish	Great Lakes Basin
+CENTRARCHIDAE	Lepomis	peltastes		N?	longear sunfish	Great Lakes Basin
+CENTRARCHIDAE	Micropterus	dolomieu		N	smallmouth bass	Great Lakes Basin
+CENTRARCHIDAE	Micropterus	salmoides		N	largemouth bass	Great Lakes Basin
+CENTRARCHIDAE	Micropterus	salmoides	salmoides	N	Northern largemouth bass	Great Lakes Basin
+CENTRARCHIDAE	Pomoxis	annularis		N	white crappie	Great Lakes Basin
+CENTRARCHIDAE	Pomoxis	nigromaculatus		N	black crappie	Great Lakes Basin
+CHANNIDAE	Channa	argus		SOC/Watchlist	Northern snakehead	Great Lakes Basin
+CHANNIDAE	Channa	marulius		SOC/Watchlist	bullseye snakehead	Great Lakes Basin
+CHARACIDAE	Myleus	pacu		R/I?	pacu	Great Lakes Basin
+CHARACIDAE	Mylossoma	duriventris		SOC/Watchlist	silver dollar fish	Great Lakes Basin
+CHARACIDAE	Pygocentrus	nattereri		SOC/Watchlist	red pirahna	Great Lakes Basin
+CICHLIDAE	Astronotus	ocellatus		SOC/Watchlist	oscar	Great Lakes Basin
+CICHLIDAE	Cichla	kelberi		SOC/Watchlist	tucunare amarela	Great Lakes Basin
+CICHLIDAE	Cichlasoma	bimaculatum		SOC/Watchlist	black acara	Great Lakes Basin
+CICHLIDAE	Cichlasoma	urophthalma		SOC/Watchlist	Mayan cichlid	Great Lakes Basin
+CICHLIDAE	Oreochromis	aureus		SOC/Watchlist	blue tilapia	Great Lakes Basin
+CICHLIDAE	Oreochromis	mossambicus		SOC/Watchlist	Mozambique tilapia	Great Lakes Basin
+CICHLIDAE	Oreochromis	niloticus		SOC/Watchlist	Nile tilapia	Great Lakes Basin
+CICHLIDAE	Parachromis	managuensis		SOC/Watchlist	jaguar guapote	Great Lakes Basin
+CICHLIDAE	Sarotherodon	melanotheron		SOC/Watchlist	Blackchin tilapia	Great Lakes Basin
+CICHLIDAE	Tilapia	bakossiorum		SOC/Watchlist	Tilapia bakossiorum	Great Lakes Basin
+CICHLIDAE	Tilapia	baloni		SOC/Watchlist	Tilapia baloni	Great Lakes Basin
+CICHLIDAE	Tilapia	bemini		SOC/Watchlist	Tilapia bemini	Great Lakes Basin
+CICHLIDAE	Tilapia	brevimanus		SOC/Watchlist	Tilapia brevimanus	Great Lakes Basin
+CICHLIDAE	Tilapia	busumana		SOC/Watchlist	Tilapia busumana	Great Lakes Basin
+CICHLIDAE	Tilapia	buttikoferi		SOC/Watchlist	zebra tilapia	Great Lakes Basin
+CICHLIDAE	Tilapia	bythobates		SOC/Watchlist	Tilapia bythobates	Great Lakes Basin
+CICHLIDAE	Tilapia	cabrae		SOC/Watchlist	Tilapia cabrae	Great Lakes Basin
+CICHLIDAE	Tilapia	cameronensis		SOC/Watchlist	Tilapia cameronensis	Great Lakes Basin
+CICHLIDAE	Tilapia	camerunensis		SOC/Watchlist	Tilapia camerunensis	Great Lakes Basin
+CICHLIDAE	Tilapia	cessiana		SOC/Watchlist	Tilapia cessiana	Great Lakes Basin
+CICHLIDAE	Tilapia	coffea		SOC/Watchlist	Tilapia coffea	Great Lakes Basin
+CICHLIDAE	Tilapia	congica		SOC/Watchlist	Tilapia congica	Great Lakes Basin
+CICHLIDAE	Tilapia	dageti		SOC/Watchlist	Tilapia dageti	Great Lakes Basin
+CICHLIDAE	Tilapia	deckerti		SOC/Watchlist	Tilapia deckerti	Great Lakes Basin
+CICHLIDAE	Tilapia	discolor		SOC/Watchlist	Tilapia discolor	Great Lakes Basin
+CICHLIDAE	Tilapia	ejagham		SOC/Watchlist	Tilapia ejagham	Great Lakes Basin
+CICHLIDAE	Tilapia	flava		SOC/Watchlist	Tilapia flava	Great Lakes Basin
+CICHLIDAE	Tilapia	fusiforme		SOC/Watchlist	Tilapia fusiforme	Great Lakes Basin
+CICHLIDAE	Tilapia	guinasana		SOC/Watchlist	Otjikoto tilapia	Great Lakes Basin
+CICHLIDAE	Tilapia	gutturosa		SOC/Watchlist	Tilapia gutturosa	Great Lakes Basin
+CICHLIDAE	Tilapia	imbriferna		SOC/Watchlist	Tilapia imbriferna	Great Lakes Basin
+CICHLIDAE	Tilapia	ismailiaensis		SOC/Watchlist	Tilapia ismailiaensis	Great Lakes Basin
+CICHLIDAE	Tilapia	jallae		SOC/Watchlist	Tilapia jallae	Great Lakes Basin
+CICHLIDAE	Tilapia	joka		SOC/Watchlist	Tilapia joka	Great Lakes Basin
+CICHLIDAE	Tilapia	konkourensis		SOC/Watchlist	Tilapia konkourensis	Great Lakes Basin
+CICHLIDAE	Tilapia	kottae		SOC/Watchlist	Tilapia kottae	Great Lakes Basin
+CICHLIDAE	Tilapia	louka		SOC/Watchlist	Tilapia louka	Great Lakes Basin
+CICHLIDAE	Tilapia	margaritacea		SOC/Watchlist	Tilapia margaritacea	Great Lakes Basin
+CICHLIDAE	Tilapia	mariae		SOC/Watchlist	Spotted tilapia	Great Lakes Basin
+CICHLIDAE	Tilapia	nigrans		SOC/Watchlist	Tilapia nigrans	Great Lakes Basin
+CICHLIDAE	Tilapia	nyongana		SOC/Watchlist	Tilapia nyongana	Great Lakes Basin
+CICHLIDAE	Tilapia	pra		SOC/Watchlist	Tilapia pra	Great Lakes Basin
+CICHLIDAE	Tilapia	rendalli		SOC/Watchlist	Redbreast tilapia	Great Lakes Basin
+CICHLIDAE	Tilapia	rheophila		SOC/Watchlist	Tilapia rheophila	Great Lakes Basin
+CICHLIDAE	Tilapia	ruweti		SOC/Watchlist	Okavango tilapia	Great Lakes Basin
+CICHLIDAE	Tilapia	snyderae		SOC/Watchlist	Tilapia snyderae	Great Lakes Basin
+CICHLIDAE	Tilapia	sparrmanii		SOC/Watchlist	Banded tilapia	Great Lakes Basin
+CICHLIDAE	Tilapia	spongotroktis		SOC/Watchlist	Tilapia spongotroktis	Great Lakes Basin
+CICHLIDAE	Tilapia	tholloni		SOC/Watchlist	Tilapia tholloni	Great Lakes Basin
+CICHLIDAE	Tilapia	thysi		SOC/Watchlist	Tilapia thysi	Great Lakes Basin
+CICHLIDAE	Tilapia	walteri		SOC/Watchlist	Tilapia walteri	Great Lakes Basin
+CICHLIDAE	Tilapia	zillii		SOC/Watchlist	redbelly tilapia	Great Lakes Basin
+CLUPEIDAE	Alosa	aestivalis		NN	blueback herring	Great Lakes Basin
+CLUPEIDAE	Alosa	chrysochloris		NN	skipjack herring	Great Lakes Basin
+CLUPEIDAE	Alosa	pseudoharengus		NN	alewife	Great Lakes Basin
+CLUPEIDAE	Alosa	sapidissima		N	American shad	Great Lakes Basin
+CLUPEIDAE	Clupeonella	cultriventris		NN	Black and Caspian Sea sprat	Great Lakes Basin
+CLUPEIDAE	Dorosoma	cepedianum		NN	gizzard shad	Great Lakes Basin
+COBITIDAE	Misgurnus	anguillicaudatus		I	oriental weatherfish	Great Lakes Basin
+COTTIDAE	Cottus	bairdii		N	mottled sculpin	Great Lakes Basin
+COTTIDAE	Cottus	cognatus		N	slimy sculpin	Great Lakes Basin
+COTTIDAE	Cottus	gobio		SOC/Watchlist	bullhead	Great Lakes Basin
+COTTIDAE	Cottus	ricei		N	spoonhead sculpin	Great Lakes Basin
+COTTIDAE	Myoxocephalus	quadricornis		NN	fourhorn sculpin	Great Lakes Basin
+COTTIDAE	Myoxocephalus	thompsonii		N	deepwater sculpin	Great Lakes Basin
+CYPRINIDAE	Abramis	brama		SOC/Watchlist	bream	Great Lakes Basin
+CYPRINIDAE	Alburnus	alburnus		SOC/Watchlist	bleak	Great Lakes Basin
+CYPRINIDAE	Campostoma	anomalum		N	central stoneroller	Great Lakes Basin
+CYPRINIDAE	Campostoma	oligolepis		N	largescale stoneroller	Great Lakes Basin
+CYPRINIDAE	Carassius	auratus		I	goldfish	Great Lakes Basin
+CYPRINIDAE	Carassius	carassius		SOC/Watchlist	Crucian carp	Great Lakes Basin
+CYPRINIDAE	Carassius	cuvieri		SOC/Watchlist	Japanese Crucian carp	Great Lakes Basin
+CYPRINIDAE	Carassius	gibelio		SOC/Watchlist	Prussian carp	Great Lakes Basin
+CYPRINIDAE	Chrosomus	eos		N	northern redbelly dace	Great Lakes Basin
+CYPRINIDAE	Chrosomus	erythrogaster		N	southern redbelly dace	Great Lakes Basin
+CYPRINIDAE	Chrosomus	neogaeus		N	finescale dace	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	caudimaculatus		SOC/Watchlist	lesser silver mud carp	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	cirrhosus		SOC/Watchlist	mrigal	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	fulungee		SOC/Watchlist	deccan white carp	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	inornatus		SOC/Watchlist	Cirrhinus inornatus	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	jullieni		SOC/Watchlist	Cirrhinus jullieni	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	macrops		SOC/Watchlist	hora white carp	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	microlepis		SOC/Watchlist	small scale mud carp	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	reba		SOC/Watchlist	reba carp	Great Lakes Basin
+CYPRINIDAE	Cirrhinus	rubirostris		SOC/Watchlist	Cirrhinus rubirostris	Great Lakes Basin
+CYPRINIDAE	Clinostomus	elongatus		N	redside dace	Great Lakes Basin
+CYPRINIDAE	Couesius	plumbeus		N	lake chub	Great Lakes Basin
+CYPRINIDAE	Ctenopharyngodon	idella		NN	grass carp	Great Lakes Basin
+CYPRINIDAE	Cyprinella	analostana		N	satinfin shiner	Great Lakes Basin
+CYPRINIDAE	Cyprinella	lutrensis		I	red shiner	Great Lakes Basin
+CYPRINIDAE	Cyprinella	spiloptera		N	spotfin shiner	Great Lakes Basin
+CYPRINIDAE	Cyprinella	whipplei		I/Watchlist	steelcolor shiner	Great Lakes Basin
+CYPRINIDAE	Cyprinus	acutidorsalis		SOC/Watchlist	Chinese carp	Great Lakes Basin
+CYPRINIDAE	Cyprinus	barbatus		SOC/Watchlist	Cyprinus barbatus	Great Lakes Basin
+CYPRINIDAE	Cyprinus	carpio		I	common carp	Great Lakes Basin
+CYPRINIDAE	Cyprinus	carpio	carpio	I	mirror carp	Great Lakes Basin
+CYPRINIDAE	Cyprinus	centralus		SOC/Watchlist	Cyprinus centralus	Great Lakes Basin
+CYPRINIDAE	Cyprinus	chilia		SOC/Watchlist	Cyprinus chilia	Great Lakes Basin
+CYPRINIDAE	Cyprinus	dai		SOC/Watchlist	Cyprinus dai	Great Lakes Basin
+CYPRINIDAE	Cyprinus	daliensis		SOC/Watchlist	Cyprinus daliensis	Great Lakes Basin
+CYPRINIDAE	Cyprinus	exophthalmus		SOC/Watchlist	Cyprinus exophthalmus	Great Lakes Basin
+CYPRINIDAE	Cyprinus	fuxianensis		SOC/Watchlist	Cyprinus fuxianensis	Great Lakes Basin
+CYPRINIDAE	Cyprinus	hyperdorsalis		SOC/Watchlist	Cyprinus hyperdorsalis	Great Lakes Basin
+CYPRINIDAE	Cyprinus	ilishaestomus		SOC/Watchlist	Cyprinus ilishaestomus	Great Lakes Basin
+CYPRINIDAE	Cyprinus	intha		SOC/Watchlist	Cyprinus intha	Great Lakes Basin
+CYPRINIDAE	Erimystax	punctata		N	gravel chub	Great Lakes Basin
+CYPRINIDAE	Erimyzon	sucetta		N	lake chubsucker	Great Lakes Basin
+CYPRINIDAE	Exoglossum	laurae		N	tonguetied minnow	Great Lakes Basin
+CYPRINIDAE	Exoglossum	maxillingua		N	cutlip minnow	Great Lakes Basin
+CYPRINIDAE	Garra	rufa		NN	red garra	Great Lakes Basin
+CYPRINIDAE	Hemiculter	leucisculus		NN	sharpbelly	Great Lakes Basin
+CYPRINIDAE	Hybognathus	hankinsoni		N	brassy minnow	Great Lakes Basin
+CYPRINIDAE	Hybognathus	nuchalis		NN	silvery minnow	Great Lakes Basin
+CYPRINIDAE	Hybognathus	regius		N	eastern silvery minnow	Great Lakes Basin
+CYPRINIDAE	Hybopsis	amnis		NN	pallid shiner	Great Lakes Basin
+CYPRINIDAE	Hypophthalmichthys	molitrix		SOC/Watchlist	silver carp	Great Lakes Basin
+CYPRINIDAE	Hypophthalmichthys	nobilis		SOC/Watchlist	bighead carp	Great Lakes Basin
+CYPRINIDAE	Labeo	capensis		NN	Orange River mudfish	Great Lakes Basin
+CYPRINIDAE	Leuciscus	idus		NN	ide, orfe	Great Lakes Basin
+CYPRINIDAE	Leuciscus	leuciscus		NN	Eurasian dace	Great Lakes Basin
+CYPRINIDAE	Luxilus	chrysocephalus		N	striped shiner	Great Lakes Basin
+CYPRINIDAE	Luxilus	cornutus		N	common shiner	Great Lakes Basin
+CYPRINIDAE	Macrhybopsis	hyostoma		N	shoal chub	Great Lakes Basin
+CYPRINIDAE	Macrhybopsis	storeriana		N	silver chub	Great Lakes Basin
+CYPRINIDAE	Margariscus	margarita		N	pearl dace	Great Lakes Basin
+CYPRINIDAE	Mylopharyngodon	piceus		SOC/Watchlist	black carp	Great Lakes Basin
+CYPRINIDAE	Nocomis	biguttatus		N	hornyhead chub	Great Lakes Basin
+CYPRINIDAE	Nocomis	micropogon		N	river chub	Great Lakes Basin
+CYPRINIDAE	Notemigonus	crysoleucas		N	golden shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	amblops		Extinct from Ontario?	bigeye chub	Great Lakes Basin
+CYPRINIDAE	Notropis	amoenus		NN	comely shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	anogenus		N	pugnose shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	atherinoides		N	emerald shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	bifrenatus		N	bridle shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	blennius		N	river shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	boops		N	bigeye shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	buccatus		N	silverjaw minnow	Great Lakes Basin
+CYPRINIDAE	Notropis	buchanani		I	ghost shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	chalybaeus		N	ironcolor shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	dorsalis		N	bigmouth shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	girardi		NN	Arkansas River shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	heterodon		N	blackchin shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	heterolepis		N	blacknose shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	hudsonius		N	spottail shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	ozarcanus		NN	Ozark shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	photogenis		N	silver shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	procne		N	swallowtail shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	rubellus		N	rosyface shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	scepticus		NN	sandbar shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	stramineus		N	sand shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	texanus		NN	weed shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	umbratilis		N	redfin shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	volucellus		N	mimic shiner	Great Lakes Basin
+CYPRINIDAE	Notropis	wickliffi		N?	channel shiner	Great Lakes Basin
+CYPRINIDAE	Opsopoeodus	emiliae		N	pugnose minnow	Great Lakes Basin
+CYPRINIDAE	Phenacobius	mirabilis		R/I	suckermouth minnow	Great Lakes Basin
+CYPRINIDAE	Phoxinus	phoxinus		Watchlist	Eurasian minnow	Great Lakes Basin
+CYPRINIDAE	Pimephales	notatus		N	bluntnose minnow	Great Lakes Basin
+CYPRINIDAE	Pimephales	promelas		N	fathead minnow	Great Lakes Basin
+CYPRINIDAE	Pimephales	vigilax		NN	Bullhead minnow	Great Lakes Basin
+CYPRINIDAE	Pseudorasbora	parva		SOC/Watchlist	stone moroko	Great Lakes Basin
+CYPRINIDAE	Rhinichthys	atratulus		N	blacknose dace	Great Lakes Basin
+CYPRINIDAE	Rhinichthys	cataractae		N	longnose dace	Great Lakes Basin
+CYPRINIDAE	Rhinichthys	obtusus		N	western blacknose dace	Great Lakes Basin
+CYPRINIDAE	Rhodeus	ocellatus		SOC/Watchlist	rose bitterling	Great Lakes Basin
+CYPRINIDAE	Rhodeus	sericeus		SOC/Watchlist	bitterling	Great Lakes Basin
+CYPRINIDAE	Rutilus	rutilus		I	roach	Great Lakes Basin
+CYPRINIDAE	Scardinius	erythrophthalmus		I	rudd	Great Lakes Basin
+CYPRINIDAE	Semotilus	atromaculatus		N	creek chub	Great Lakes Basin
+CYPRINIDAE	Semotilus	corporalis		N	fallfish	Great Lakes Basin
+CYPRINIDAE	Squalius	cephalus		NN	European chub	Great Lakes Basin
+CYPRINIDAE	Tinca	tinca		SOC/Watchlist	tench	Great Lakes Basin
+ESOCIDAE	Esox	americanus	americanus	N	redfin pickerel	Great Lakes Basin
+ESOCIDAE	Esox	americanus	vermiculatus	N	grass pickerel	Great Lakes Basin
+ESOCIDAE	Esox	lucius		N	northern pike	Great Lakes Basin
+ESOCIDAE	Esox	masquinongy		N	muskellunge	Great Lakes Basin
+ESOCIDAE	Esox	masquinongy	ohioensis	N	muskellunge, Ohio drainages	Great Lakes Basin
+ESOCIDAE	Esox	niger		I	chain pickerel	Great Lakes Basin
+FUNDULIDAE	Fundulus	diaphanus		N	banded killifish	Great Lakes Basin
+FUNDULIDAE	Fundulus	dispar		N	starhead topminnow	Great Lakes Basin
+FUNDULIDAE	Fundulus	notatus		N?	blackstripe topminnow	Great Lakes Basin
+GADIDAE	Lota	lota		N	burbot	Great Lakes Basin
+GASTEROSTEIDAE	Apeltes	quadracus		I	fourspine stickleback	Great Lakes Basin
+GASTEROSTEIDAE	Culaea	inconstans		N	brook stickleback	Great Lakes Basin
+GASTEROSTEIDAE	Gasterosteus	aculeatus		I	threespine stickleback	Great Lakes Basin
+GASTEROSTEIDAE	Pungitius	pungitius		N	ninespine stickleback	Great Lakes Basin
+GOBIIDAE	Acanthogobius	flavimanus		SOC/Watchlist	yellowfin goby	Great Lakes Basin
+GOBIIDAE	Babka	gymnotrachelus		SOC/Watchlist	racer goby	Great Lakes Basin
+GOBIIDAE	Benthophilus	stellatus		SOC/Watchlist	starry goby	Great Lakes Basin
+GOBIIDAE	Knipowitschia	caucasica		SOC/Watchlist	Caucasian dwarf goby	Great Lakes Basin
+GOBIIDAE	Neogobius	fluviatilis		SOC/Watchlist	monkey goby	Great Lakes Basin
+GOBIIDAE	Neogobius	melanostomus		I	round goby	Great Lakes Basin
+GOBIIDAE	Neogobius	pallasi		SOC/Watchlist	Caspian monkey goby	Great Lakes Basin
+GOBIIDAE	Proterorhinus	marmoratus		I	tubenose goby	Great Lakes Basin
+GOBIIDAE	Proterorhinus	semilunaris		SOC/Watchlist	Western tubenose goby	Great Lakes Basin
+GOBIIDAE	Tridentiger	trigonocephalus		SOC/Watchlist	chameleon goby	Great Lakes Basin
+HIODONTIDAE	Hiodon	alosoides		??	goldeye	Great Lakes Basin
+HIODONTIDAE	Hiodon	tergisus		N	mooneye	Great Lakes Basin
+ICTALURIDAE	Ameiurus	catus		SOC/Watchlist	white catfish	Great Lakes Basin
+ICTALURIDAE	Ameiurus	melas		N	black bullhead	Great Lakes Basin
+ICTALURIDAE	Ameiurus	natalis		N	yellow bullhead	Great Lakes Basin
+ICTALURIDAE	Ameiurus	nebulosus		N	brown bullhead	Great Lakes Basin
+ICTALURIDAE	Ictalurus	furcatus		NN/Watchlist	blue catfish	Great Lakes Basin
+ICTALURIDAE	Ictalurus	punctatus		N	channel catfish	Great Lakes Basin
+ICTALURIDAE	Noturus	exilis		N	slender madtom	Great Lakes Basin
+ICTALURIDAE	Noturus	flavus		N	stonecat	Great Lakes Basin
+ICTALURIDAE	Noturus	gyrinus		N	tadpole madtom	Great Lakes Basin
+ICTALURIDAE	Noturus	insignis		NN	margined madtom	Great Lakes Basin
+ICTALURIDAE	Noturus	miurus		N	brindled madtom	Great Lakes Basin
+ICTALURIDAE	Noturus	stigmosus		N	northern madtom	Great Lakes Basin
+ICTALURIDAE	Pylodictis	olivaris		N?	flathead catfish	Great Lakes Basin
+LATIDAE	Lates	calcarifer		SOC/Watchlist	barramundi	Great Lakes Basin
+LATIDAE	Lates	niloticus		SOC/Watchlist	Nile perch	Great Lakes Basin
+LEPISOSTEIDAE	Lepisosteus	oculatus		N	spotted gar	Great Lakes Basin
+LEPISOSTEIDAE	Lepisosteus	osseus		N	longnose gar	Great Lakes Basin
+LEPISOSTEIDAE	Lepisosteus	platostomus		I	shortnose gar	Great Lakes Basin
+LORICARIIDAE	Hypostomus	plecostomus		SOC/Watchlist	suckermouth catfish	Great Lakes Basin
+LORICARIIDAE	Pterygoplichthys	disjunctivus		SOC/Watchlist	vermiculated sailfin catfish	Great Lakes Basin
+LORICARIIDAE	Pterygoplichthys	multiradiatus		SOC/Watchlist	Orinoco sailfin catfish	Great Lakes Basin
+LORICARIIDAE	Pterygoplichthys	pardalis		SOC/Watchlist	Amazon sailfin catfish	Great Lakes Basin
+MORONIDAE	Morone	americana		I	white perch	Great Lakes Basin
+MORONIDAE	Morone	chrysops		N	white bass	Great Lakes Basin
+MORONIDAE	Morone	mississippiensis		R/I?	yellow bass	Great Lakes Basin
+MORONIDAE	Morone	saxatilis		R/I?	striped bass	Great Lakes Basin
+NOTOPTERIDAE	Chitala	ornata		NN	clown knifefish	Great Lakes Basin
+ODONTOBUTIDAE	Perccottus	glenii		SOC/Watchlist	Amur sleeper	Great Lakes Basin
+OSMERIDAE	Hypomesus	nipponensis		SOC/Watchlist	wakasagi	Great Lakes Basin
+OSMERIDAE	Osmerus	eperlanus		NN	smelt	Great Lakes Basin
+OSMERIDAE	Osmerus	mordax		I	rainbow smelt	Great Lakes Basin
+OSPHRONEMIDAE	Betta	splendens		SOC/Watchlist	Siamese fighting fish	Great Lakes Basin
+PERCIDAE	*Stizostedion	vitreum	glaucum	Extinct	blue pike	Great Lakes Basin
+PERCIDAE	Ammocrypta	clara		NN	western sand darter	Great Lakes Basin
+PERCIDAE	Ammocrypta	pellucida		N	eastern sand darter	Great Lakes Basin
+PERCIDAE	Crystallaria	asprella		N	crystal darter	Great Lakes Basin
+PERCIDAE	Etheostoma	asprigene		N	mud darter	Great Lakes Basin
+PERCIDAE	Etheostoma	blennioides		N	greenside darter	Great Lakes Basin
+PERCIDAE	Etheostoma	caeruleum		N	rainbow darter	Great Lakes Basin
+PERCIDAE	Etheostoma	chlorosoma		Extinct from Michigan	bluntnosed darter	Great Lakes Basin
+PERCIDAE	Etheostoma	exile		N	Iowa darter	Great Lakes Basin
+PERCIDAE	Etheostoma	flabellare		N	fantail darter	Great Lakes Basin
+PERCIDAE	Etheostoma	microperca		N	least darter	Great Lakes Basin
+PERCIDAE	Etheostoma	nigrum		N	johnny darter	Great Lakes Basin
+PERCIDAE	Etheostoma	olmstedi		N	tessellated darter	Great Lakes Basin
+PERCIDAE	Etheostoma	spectabile		N	orangethroat darter	Great Lakes Basin
+PERCIDAE	Etheostoma	zonale		N	banded darter	Great Lakes Basin
+PERCIDAE	Gymnocephalus	cernuus		I	ruffe	Great Lakes Basin
+PERCIDAE	Perca	flavescens		N	yellow perch	Great Lakes Basin
+PERCIDAE	Perca	fluviatilis		SOC/Watchlist	European perch	Great Lakes Basin
+PERCIDAE	Percina	caprodes		N	logperch	Great Lakes Basin
+PERCIDAE	Percina	copelandi		N	channel darter	Great Lakes Basin
+PERCIDAE	Percina	evides		N	gilt darter	Great Lakes Basin
+PERCIDAE	Percina	maculata		N	blackside darter	Great Lakes Basin
+PERCIDAE	Percina	phoxocephala		N	slenderhead darter	Great Lakes Basin
+PERCIDAE	Percina	shumardi		N?	river darter	Great Lakes Basin
+PERCIDAE	Sander	canadensis		I	sauger	Great Lakes Basin
+PERCIDAE	Sander	lucioperca		SOC/Watchlist	zander	Great Lakes Basin
+PERCIDAE	Sander	vitreus		N	walleye	Great Lakes Basin
+PERCOPSIDAE	Percopsis	omiscomaycus		N	trout-perch	Great Lakes Basin
+PETROMYZONTIDAE	Ichthyomyzon	castaneus		N	chestnut lamprey	Great Lakes Basin
+PETROMYZONTIDAE	Ichthyomyzon	fossor		N	northern brook lamprey	Great Lakes Basin
+PETROMYZONTIDAE	Ichthyomyzon	unicuspis		N	silver lamprey	Great Lakes Basin
+PETROMYZONTIDAE	Lampetra	appendix		N	American brook lamprey	Great Lakes Basin
+PETROMYZONTIDAE	Petromyzon	marinus		SOC/I	sea lamprey	Great Lakes Basin
+PLEURONECTIDAE	Platichthys	flesus		SOC/Watchlist	European flounder	Great Lakes Basin
+POECILIIDAE	Gambusia	affinis		R/I?	Western mosquitofish	Great Lakes Basin
+POECILIIDAE	Gambusia	holbrooki		NN	Eastern mosquitofish	Great Lakes Basin
+POECILIIDAE	Poecilia	reticulata		SOC/Watchlist	guppy	Great Lakes Basin
+POLYODONTIDAE	Polyodon	spathula		N	paddlefish	Great Lakes Basin
+SALMONIDAE	*Coregonus	johannae		Extinct	deepwater cisco	Great Lakes Basin
+SALMONIDAE	*Coregonus	nigripinnis		Extinct	blackfin cisco	Great Lakes Basin
+SALMONIDAE	*Coregonus	reighardi		Extinct	shortnose cisco	Great Lakes Basin
+SALMONIDAE	Coregonus	albula		SOC/Watchlist	vendace	Great Lakes Basin
+SALMONIDAE	Coregonus	artedi		N	lake herring	Great Lakes Basin
+SALMONIDAE	Coregonus	clupeaformis		N	lake whitefish	Great Lakes Basin
+SALMONIDAE	Coregonus	hoyi		N	bloater	Great Lakes Basin
+SALMONIDAE	Coregonus	kiyi		N	kiyi	Great Lakes Basin
+SALMONIDAE	Coregonus	lavaretus		SOC/Watchlist	powan	Great Lakes Basin
+SALMONIDAE	Coregonus	maraena		R/I?	Maraena whitefish	Great Lakes Basin
+SALMONIDAE	Coregonus	peled		SOC/Watchlist	Northern whitefish	Great Lakes Basin
+SALMONIDAE	Coregonus	zenithicus		N	shortjaw cisco	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	clarkii		NN	cutthroat trout	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	gorbuscha		I	pink salmon	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	keta		NN	chum salmon	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	kisutch		I	coho salmon	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	masou		NN	cherry salmon	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	mykiss		I	rainbow trout	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	mykiss	irideus	I	coastal rainbow trout	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	nerka		NN	kokanee salmon	Great Lakes Basin
+SALMONIDAE	Oncorhynchus	tshawytscha		I	chinook salmon	Great Lakes Basin
+SALMONIDAE	Prosopium	coulterii		N	pygmy whitefish	Great Lakes Basin
+SALMONIDAE	Prosopium	cylindraceum		N	round whitefish	Great Lakes Basin
+SALMONIDAE	Prosopium	williamsoni		NN	mountain whitefish	Great Lakes Basin
+SALMONIDAE	Salmo	letnica		NN	Ohrid trout	Great Lakes Basin
+SALMONIDAE	Salmo	salar		I	Atlantic salmon landlocked & anadromous	Great Lakes Basin
+SALMONIDAE	Salmo	salar		P?	Atlantic salmon original genetic stock	Great Lakes Basin
+SALMONIDAE	Salmo	trutta		I	brown trout	Great Lakes Basin
+SALMONIDAE	Salvelinus	alpinus		NN	Arctic char	Great Lakes Basin
+SALMONIDAE	Salvelinus	fontinalis		N	brook trout	Great Lakes Basin
+SALMONIDAE	Salvelinus	namaycush		N	lake trout original genetic stocks	Great Lakes Basin
+SALMONIDAE	Salvelinus	namaycush		N	lake trout	Great Lakes Basin
+SALMONIDAE	Salvelinus	namaycush	siscowet	N	siscowet lake trout	Great Lakes Basin
+SALMONIDAE	Thymallus	arcticus		R/I?	Arctic grayling	Great Lakes Basin
+SCIAENIDAE	Aplodinotus	grunniens		N	freshwater drum	Great Lakes Basin
+SCORPAENIDAE	Pterois	miles		SOC/Watchlist	devil firefish	Great Lakes Basin
+SCORPAENIDAE	Pterois	volitans		SOC/Watchlist	red lion fish	Great Lakes Basin
+SERRASALMIDAE	Piaractus	brachypomus		SOC/Watchlist	pirapatinga, red-bellied pacu	Great Lakes Basin
+SILURIDAE	Silurus	glanis		SOC/Watchlist	Wels catfish	Great Lakes Basin
+SYNBRANCHIDAE	Monopterus	albus		SOC/Watchlist	Asian swamp eel	Great Lakes Basin
+SYNGNATHIDAE	Syngnathus	abaster		SOC/Watchlist	shortsnouted pipefish	Great Lakes Basin
+UMBRIDAE	Umbra	limi		N	central mudminnow	Great Lakes Basin

@@ -1,0 +1,6 @@
+Coelacanthimorpha	118072
+Hyperoartia	117569
+Hyperotreti	117565
+Actinopterygii	7898
+Dipnoi	7878
+Chondrichthyes	7777

@@ -31,10 +31,6 @@ def create_db(dbname):
     curs.execute('''CREATE TABLE taxa
                          (taxid INTEGER NOT NULL PRIMARY KEY , lineage)''')
 
-    # curs.execute('''CREATE TABLE accession (acc PRIMARY KEY , acc_version, FOREIGN KEY (taxid)  REFERENCES taxa(
-    # taxid))''')
-
-
     curs.execute('''CREATE TABLE accession
                     (acc PRIMARY KEY , acc_version, taxid INTEGER REFERENCES taxa(taxid))''')
 
